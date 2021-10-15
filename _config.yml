@@ -1,56 +1,5 @@
-remote_theme: peterdesmet/petridish
+remote_theme: raviriley/agency-jekyll-theme
 # SITE SETTINGS
 title: The McComb Lab                   # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
 author: Peter Desmet                    # Used for copyright statement in footer
-# url: "https://peterdesmet.github.io"  # No slash at the end
-# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
-                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
-                                        # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
-
-# SOCIAL PROFILES
-email: your.email@example.com           # Social icon in footer
-twitter_username: peterdesmet           # Social icon in footer
-github_username: peterdesmet            # Social icon in footer
-
-# THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
-archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
-logo: /assets/img/petri-dish_1f9eb.png  # Logo in navbar, will be displayed with 30px height
-colors:
-  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
-rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-
-# BUILD SETTINGS
-markdown: kramdown
-plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
-  - jekyll-feed
-  - jekyll-sitemap
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - LICENSE
-  - package-lock.json
-  - package.json
-  - petridish.gemspec
-
-# FRONTMATTER DEFAULTS
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"                 # Only required for Petridish website, implied for sites using a theme
-
-theme: jekyll-theme-tactile
