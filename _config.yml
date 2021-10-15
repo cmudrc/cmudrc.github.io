@@ -1,4 +1,4 @@
-theme: minimal
+theme: jekyll-theme-minimal
 # SITE SETTINGS
 title: The McComb Lab                   # Title in top navigation bar (navbar) and <head>
 description: The lab for students # Site description in <head>
