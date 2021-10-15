@@ -1,5 +1,5 @@
-remote_theme: raviriley/agency-jekyll-theme
+theme: minimal
 # SITE SETTINGS
 title: The McComb Lab                   # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+description: The lab for students # Site description in <head>
+author: Chris McComb                   # Used for copyright statement in footer
