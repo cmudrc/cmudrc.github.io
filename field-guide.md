@@ -35,4 +35,4 @@ objective as a lab is on *__submitting quality work__*.
 #### Design Science
 #### Design Studies
 
-
+# Advice from Graduates
