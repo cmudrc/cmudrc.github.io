@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 toc: true
 toc_sticky: true
 title: The McComb Lab Field Guide
