@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The McComb Lab Field Guide
+permalink: /field-guide/
 ---
 
 # General Expectations
