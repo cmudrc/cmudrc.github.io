@@ -9,7 +9,5 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% assign page.feature_row.excerpt = "asdf" %}
-
-{% include feature_row type=left %}
+{% include feature_row type="left" %}
 
