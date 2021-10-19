@@ -1,4 +1,4 @@
-{% assign journals = ["Journal of Mechanical Design"] %}
+{% assign journals = "Journal of Mechanical Design,Design Studies" | split: "," %}
 
 <ol>
 {% assign pub_list = site.data.citations | sort: "Year" | reverse %}
