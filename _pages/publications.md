@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 classes: wide
 title: Publications
 permalink: /publications/
@@ -8,6 +8,7 @@ permalink: /publications/
 {% include journal_publications.html %}
 
 ## Conference
+{% include conference_publications.html %}
 
 ## Trade Publications
 {% include trade_publications.html %}
