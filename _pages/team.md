@@ -2,12 +2,13 @@
 title: Team
 permalink: /team/
 layout: splash
+feature_row:
+  - image_path: /assetss/headshots/McComb.jpeg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 
-{% for member in site.data.members %}
-{% include figure image_path="{{member.headshot}}" %}{: .align-left}
-<h2>{{member.first}} {{member.last}}, {{member.role}}</h2>
-<p>{{member.bio}}</p>
-{% endfor %}
+{% include feature_row type=left %}
 
