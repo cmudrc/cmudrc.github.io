@@ -9,7 +9,7 @@ content
 <h2>{{member.first}} {{member.last}}, {{member.role}}</h2>
 <div style="width:100%">
 <div style="min-width:300px; display: table-cell;">
-<img src="https://cmccomb.com/assets/images/headshot_optimized_square.jpg">
+{%include figure image_path="https://cmccomb.com/assets/images/headshot_optimized_square.jpg" %}
 </div>
 <div style="display:table-cell; width:100%; vertical-align: top">
 <p>{{member.bio}}</p>
