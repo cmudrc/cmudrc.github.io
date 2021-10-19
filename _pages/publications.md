@@ -5,7 +5,8 @@ title: Publications
 permalink: /publications/
 ---
 <ol>
-{% for citation in site.data.citations | sort: "Year" | reverse %}
+{% assign pub_list = site.data.citations | sort: "Year" | reverse %}
+{% for citation in pub_list %}
   <li>
     {% assign url = citation.Title | cgi_escape | prepend: "https://scholar.google.com/scholar?q=" %}
     {% assign size = citation.Authors | size | minus: 2 %}
