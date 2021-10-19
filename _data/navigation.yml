@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Team"
+    url: /team/
+  - title: "Publications"
+    url: /publications/
+  - title: "Field Guide"
+    url: /field-guide/
