@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
-# SITE SETTINGS
+remote_theme: "mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache  
 title: The McComb Lab                   # Title in top navigation bar (navbar) and <head>
 description: The lab for students # Site description in <head>
 author: Chris McComb                   # Used for copyright statement in footer
