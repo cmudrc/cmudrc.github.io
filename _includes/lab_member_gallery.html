@@ -2,7 +2,7 @@
 
 {% for member in site.data.members %}
   {% assign counter = counter | plus: 1 %}
-  {% assign mod = counter | module: 3 %}
+  {% assign mod = counter | modulo: 3 %}
   {% if mod == 1 %}
     <div class="feature__wrapper">
   {% endif %}
