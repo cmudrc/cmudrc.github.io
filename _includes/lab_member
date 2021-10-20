@@ -1,18 +1,19 @@
 <div class="feature__wrapper">
+ {% for member in site.data.members %}
     <div class="feature__item--center">
       <div class="archive__item">
           <div class="archive__item-teaser">
-            <img src="{{ include.image_path | relative_url }}"
-                 alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+            <img src="{{ member.headshot | relative_url }}">
           </div>
 
         <div class="archive__item-body">
-            <h2 class="archive__item-title">{{ include.title }}</h2>
+            <h2 class="archive__item-title">{{member.first}} {{member.last}}, {{ member.title }}</h2>
 
             <div class="archive__item-excerpt">
-              {{ include.excerpt | markdownify }}
+              {{ member.email }}
             </div>
         </div>
       </div>
     </div>
+{% endfor %}
 </div>
