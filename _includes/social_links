@@ -2,7 +2,7 @@
 
 {% if author.uri %}
 <a href="{{ author.uri }}" itemprop="url" rel="me" style="text-decoration: none;">
-<i class="fas fa-fw fa-link" aria-hidden="true"></i>
+<i class="fas fa-fw fa-external-link-square-alt" aria-hidden="true"></i>
 </a>
 {% endif %}
 
@@ -27,6 +27,6 @@
 
 {% if author.github %}
 <a href="https://github.com/{{ author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer me" style="text-decoration: none;">
-<i class="fab fa-fw fa-github" aria-hidden="true"></i>
+<i class="fab fa-fw fa-github-square" aria-hidden="true"></i>
 </a>
 {% endif %}
