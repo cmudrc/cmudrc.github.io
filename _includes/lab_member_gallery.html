@@ -1,5 +1,11 @@
-<div class="feature__wrapper">
- {% for member in site.data.members %}
+{% assign counter = 0 %}
+
+{% for member in site.data.members %}
+  {% assign counter = counter | plus: 1 %}
+  {% assign mod = counter | module: 3 %}
+  {% if mod == 1 %}
+    <div class="feature__wrapper">
+  {% endif %}
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
@@ -15,5 +21,7 @@
         </div>
       </div>
     </div>
+  {% if mod == 0 %}
+    </div>
+  {% endif %}
 {% endfor %}
-</div>
