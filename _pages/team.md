@@ -9,5 +9,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% include feature_row type="left" %}
+{% for member in site.data.members %}
+  {% include lab_member image_path=member.headshot excerpt=member.except title=member.last %}
+{% endif %}
 
