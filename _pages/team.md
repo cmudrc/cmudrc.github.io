@@ -1,7 +1,7 @@
 ---
 title: Team
 permalink: /team/
-layout: splash
+layout: single
 ---
 
 {% for member in site.data.members %}
