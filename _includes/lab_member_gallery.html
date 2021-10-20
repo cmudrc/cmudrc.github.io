@@ -1,27 +1,27 @@
 {% assign counter = 0 %}
 
 {% for member in site.data.members %}
-  {% assign counter = counter | plus: 1 %}
-  {% assign mod = counter | modulo: 3 %}
-  {% if mod == 1 %}
-    <div class="feature__wrapper">
-  {% endif %}
-    <div class="feature__item">
-      <div class="archive__item">
-          <div class="archive__item-teaser">
-            <img src="{{ member.headshot | relative_url }}">
-          </div>
+{% assign counter = counter | plus: 1 %}
+{% assign mod = counter | modulo: 3 %}
+{% if mod == 1 %}
+<div class="feature__wrapper">
+{% endif %}
+<div class="feature__item">
+<div class="archive__item">
+<div class="archive__item-teaser">
+<img src="{{ member.headshot | relative_url }}">
+</div>
 
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">{{member.first}} {{member.last}}, {{ member.role}}</h2>
+<div class="archive__item-body">
+<h2 class="archive__item-title">{{member.first}} {{member.last}}, {{ member.role}}</h2>
 
-            <div class="archive__item-excerpt">
-              {{ member.email }}
-            </div>
-        </div>
-      </div>
-    </div>
-  {% if mod == 0 %}
-    </div>
-  {% endif %}
+<div class="archive__item-excerpt">
+{{ member.email }}
+</div>
+</div>
+</div>
+</div>
+{% if mod == 0 %}
+</div>
+{% endif %}
 {% endfor %}
