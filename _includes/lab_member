@@ -1,0 +1,18 @@
+<div class="feature__wrapper">
+    <div class="feature__item--left">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            <img src="{{ include.image_path | relative_url }}"
+                 alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+          </div>
+
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">{{ include.title }}</h2>
+
+            <div class="archive__item-excerpt">
+              {{ include.excerpt | markdownify }}
+            </div>
+        </div>
+      </div>
+    </div>
+</div>
