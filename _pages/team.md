@@ -5,6 +5,7 @@ layout: splash
 ---
 
 {% for member in site.data.members %}
-  {% include lab_member image_path=member.headshot excerpt=member.bio title=member.last %}
+  {% capture name %} {{member.first}} {{member.last}}, {{member.role}} {% endcapture %}
+  {% include lab_member image_path=member.headshot excerpt=member.bio title=name %}
 {% endfor %}
 
