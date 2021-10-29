@@ -5,7 +5,8 @@ title: Publications
 permalink: /publications/
 ---
 ## Journal
-{% include scholar/_includes/publications venue="Journal of Mechanical Design;Design Studies;Engineering Structures;Data in Brief;Team Performance Management;Design Science;Journal of Computing and Information Science in Engineering;Computational Materials Science;Decision Support Systems;Stats;SN Computer Science;Additive Manufacturing;Artificial Intelligence for Engineering Design, Analysis and Manufacturing" link=true %}
+{% assign journal_list = site.publications.journals | join ";" %}
+{% include scholar/_includes/publications venue=journal_list link=true %}
 
 ## Conference
 {% include conference_publications.html %}
