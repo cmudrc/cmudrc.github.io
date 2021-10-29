@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 ## Journal
-{% assign journal_list = site.publications.journals | join ";" %}
+{% assign journal_list = site.publications.journals | join: ";" %}
 {% include scholar/_includes/publications venue=journal_list link=true %}
 
 ## Conference
