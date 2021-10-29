@@ -9,7 +9,7 @@ permalink: /publications/
 {% include scholar/_includes/publications venue=journal_list link=true %}
 
 ## Conference
-{% include conference_publications.html %}
+{% include scholar/_includes/publications venue_search="congress;symposium;conference" link=true %}
 
 ## Trade Publications
 {% include trade_publications.html %}
