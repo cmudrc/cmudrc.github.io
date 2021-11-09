@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 toc: true
 toc_sticky: true
 title: The McComb Lab Field Guide
@@ -29,13 +29,13 @@ objective as a lab is on *__submitting quality work__*.
 ### The Review Process
 ### Venues
 #### Conferences
-##### ASME IDETC
-##### The DESIGN Conference
-##### International Conference on Engineering Design
-##### International Conference on Design Computing and Cognition
+Some of our main conferences are:
+- ASME IDETC
+- The DESIGN Conference
+- International Conference on Engineering Design
+- International Conference on Design Computing and Cognition
 #### Journals
-##### ASME JMD
-##### Design Science
-#### Design Studies
-
-# Advice from Graduates
+- ASME JMD
+- ASME JCISE
+- Design Science
+- Design Studies
