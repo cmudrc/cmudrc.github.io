@@ -1,6 +1,7 @@
 ---
 layout: splash
 classes: wide
+title: Ask Huge Questions
 permalink: /
 header:
   overlay_color: "#000"
