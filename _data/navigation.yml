@@ -5,5 +5,7 @@ main:
     url: /team/
   - title: "Publications"
     url: /publications/
+  - title: "Software"
+    url: /software/
   - title: "Field Guide"
     url: /field-guide/
