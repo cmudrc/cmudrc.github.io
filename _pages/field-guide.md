@@ -9,7 +9,6 @@ permalink: /field-guide/
 ## General Expectations
 
 ## Courses
-
 ## Tools and Software
 ### Python
 ### R
