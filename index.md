@@ -17,10 +17,18 @@ header:
 intro:
   - excerpt: 'In the McComb Lab, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
 feature_row:
-  - image_path: "https://images.unsplash.com/photo-1474314243412-cd4a79f02c6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
+  - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "People and Teams in Design"
-    excerpt: "Human beings are fascinating. We are particularly fascinated by humans engaged in design and problem-solving."
-    caption: "[**Marius Masalar**](https://unsplash.com/@marius) on [*Unsplash*](https://unsplash.com)"
+    excerpt: "Humans make things happen. We study individuals and teams as they create new products and systems."
+    caption: "[**Marvin Meyer**](https://unsplash.com/@marvelous) on [*Unsplash*](https://unsplash.com)"
+  - image_path: "https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+    title: "AI/ML Supporting Design"
+    excerpt: "By building ML systems in response to human needs, we can create superpowers for problem-solvers."
+    caption: "[**ThisisEngineering**](https://unsplash.com/@thisisengineering) on [*Unsplash*](https://unsplash.com)"
+  - image_path: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+    title: "Human-AI Collaboration"
+    excerpt: "By elevating AI as a partner in the problem-solving process, teams can achieve breakthrough solutions to wicked problems."
+    caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
 ---
 
 {% include feature_row id="intro" type="center" %}
