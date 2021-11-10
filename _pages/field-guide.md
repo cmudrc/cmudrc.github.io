@@ -8,10 +8,11 @@ permalink: /field-guide/
 
 ⚠️  This page is under construction. ⚠️ 
 {: .notice--warning} 
-{: .text-center :}
+{: .text-center }
 
 *This field guide provides an overview of how we work in {{site.title}}, which includes a lot of things - how students progress through their degrees, tools and software that we use, how we meet, and how we communicate our results. This page is a living document, and will grow, evolve, and change as {{site.title}} does.* 
-{: .notice--info} 
+{: .notice--info}  
+{: .text-justify }
 
 ## Expectations
 
