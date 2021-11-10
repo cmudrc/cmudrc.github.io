@@ -2,7 +2,7 @@
 
 {% for member in site.data.members %}
 {% assign counter = counter | plus: 1 %}
-{% assign mod = counter | modulo: 4 %}
+{% assign mod = counter | modulo: 3 %}
 {% if mod == 1 %}
 <div class="feature__wrapper">
 {% endif %}
@@ -12,7 +12,7 @@
   {% if member.headshot %}
     <img src="{{ member.headshot | relative_url }}">
   {% else %}
-    <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png" style="padding-left: 12.5%; padding-right: 12.5%; border-radius: 4px;">
+    <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
   {% endif %}  
 </div>
 
