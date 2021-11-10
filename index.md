@@ -15,6 +15,7 @@ header:
       url: "https://mccomblab.github.io/publications/"
   caption: "[**Marius Masalar**](https://unsplash.com/@marius) on [*Unsplash*](https://unsplash.com)"
 research_intro:
+  - title: Research Areas
   - excerpt: 'In the McComb Lab, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
@@ -30,6 +31,7 @@ research_areas:
     excerpt: "By elevating AI as a partner in the problem-solving process, teams can achieve breakthrough solutions to wicked problems."
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
 application_intro:
+  - title: Application Domains
   - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
 application_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
