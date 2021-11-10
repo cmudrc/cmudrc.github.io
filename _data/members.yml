@@ -7,12 +7,14 @@
   twitter: ccmccomb
   linkedin: ccmcc2012
   github: cmccomb
+  alum: false
 - first: Malena
   last: Agyemang
   role: Postdoc
   headshot: "https://thred.group/assets/headshots/agyemang.jpg"
   linkedin: malena-agyemang-05131522
   email: "magyemang@andrew.cmu.edu"
+  alum: false
 - first: Ambrosio
   last: Valencia 
   role: Postdoc
@@ -20,48 +22,61 @@
   email: "avalenci@andrew.cmu.edu"
   uri: "https://amvro.co/"
   linkedin: valenciaromero
+  alum: false
 - first: Lucas
   last: Puentes
   role: Ph.D. Student
   headshot: "https://thred.group/assets/headshots/puentes.jpg"
+  alum: false
 - first: Ayush
   last: Raina
   role: Ph.D. Student
   headshot: "https://thred.group/assets/headshots/raina.jpg"
+  alum: false
 - first: Sean
   last: Rismiller
   role: Ph.D. Student
+  alum: false
 - first: Glen
   last: Williams
   role: Ph.D. Student
   headshot: "https://thred.group/assets/headshots/williams.jpg"
+  alum: false
 - first: Noriana
   last: Radwan
   role: Ph.D. Student
   headshot: "https://media-exp1.licdn.com/dms/image/C5603AQFDjhKKszSc9g/profile-displayphoto-shrink_400_400/0/1610585268958?e=1642032000&v=beta&t=I2_bwxD8IQvqemXZxVqHFxJwD4bW0McAAYpsusTULic"
   linkedin: norianaradwan
+  alum: false
 - first: Hannah
   last: Nolte
   role: Ph.D. Student
   headshot: "https://thred.group/assets/headshots/nolte.jpg"
+  alum: false
 - first: Akash
   last: Agrawal
   role: Ph.D. Student
   headshot: "https://thred.group/assets/headshots/agrawal.jpg"
+  alum: false
 - first: Martha
   last: Baldwin
   role: Ph.D. Student
+  alum: false
 - first: Francisco
   last: Boschetti
   role: Ph.D. Student
+  alum: false
 - first: Sierra
   last: Hicks
   role: M.S. Student
   headshot: "https://thred.group/assets/headshots/hicks.jpg"
+  alum: false
 - first: Fariha
   last: Azhar
   role: M.S. Student
   headshot: "https://thred.group/assets/headshots/azhar.jpg"
+  alum: false
 - first: Mathew
   last: Thomson
   role: M.S. Student
+  alum: false
