@@ -14,7 +14,10 @@ gallery:
     title: "KABOOM"
   - url: "https://github.com/hyform"
     image_path: "https://raw.githubusercontent.com/hyform/branding/master/LOGO/PNG/Hyform-07.png"
-    title: "KABOOM"
+    title: "HyForm"
+  - url: "https://github.com/mccomblab/mccomblab.github.io"
+    image_path: /assets/software/mccomblab.png
+    title: "mccomblab.github.io"
 ---
 
 {% include gallery %}
