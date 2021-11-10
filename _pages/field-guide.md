@@ -13,6 +13,8 @@ permalink: /field-guide/
 *This field guide provides an overview of how we work in {{site.title}}, which includes a lot of things - how students progress through their degrees, tools and software that we use, how we meet, and how we communicate our results. This page is a living document, and will grow, evolve, and change as {{site.title}} does.* 
 {: .notice--info} 
 
+## Expectations
+
 ## Research and your Degree
 ### The Ph.D.
 ### The Research Masters
@@ -58,3 +60,9 @@ Some of our main conferences are:
 - [Design Studies](https://www.journals.elsevier.com/design-studies)
 - [AIEDAM](https://www.cambridge.org/core/journals/ai-edam)
 - Other - Sometimes your work won't be a good fit for any of the journals above, and that's ok! There are lots of journals out there, and we will identify the right one for your work. 
+
+## Acknowledgements
+This field guide draws on work from several other great labs, including:
+- https://sites.utexas.edu/crewslab/lab-manual/
+- https://www.nature.com/articles/d41586-018-06167-w
+- https://rennisonlab.com/lab-manual/
