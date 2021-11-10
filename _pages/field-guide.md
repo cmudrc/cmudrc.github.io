@@ -6,6 +6,12 @@ title: The McComb Lab Field Guide
 permalink: /field-guide/
 ---
 
+{: .notice--warning} This page is under construction.
+
+*This field guide provides an overview of how we work in {{site.title}}. This includes a lot of things - how students progress through their degrees, tools and software that we use, how we meet, and how we communicate our results. This is a living document, and will grow, evolve, and change as {{site.title}} does.*
+
+## Progressing through your degree
+
 ## Tools and Software
 A lot of the work that we do in {{site.title}} is computational, so setting up your software stack is important. Most researchers end up using one of two languages: `Python` or `R`.
 ### Python
