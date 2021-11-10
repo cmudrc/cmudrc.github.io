@@ -18,6 +18,9 @@ gallery:
   - url: "https://github.com/mccomblab/mccomblab.github.io"
     image_path: /assets/software/mccomblab.png
     title: "mccomblab.github.io"
+  - url: "https://mccomblab.github.io/show-me-the-funding/"
+    image_path: "https://raw.githubusercontent.com/mccomblab/show-me-the-funding/master/assets/screenshot.png"
+    title: "Show Me The Funding"
 ---
 
 {% include gallery %}
