@@ -6,9 +6,9 @@ title: The McComb Lab Field Guide
 permalink: /field-guide/
 ---
 
-{: .notice--warning} This page is under construction.
+This page is under construction. {: .notice--warning} 
 
-*This field guide provides an overview of how we work in {{site.title}}. This includes a lot of things - how students progress through their degrees, tools and software that we use, how we meet, and how we communicate our results. This is a living document, and will grow, evolve, and change as {{site.title}} does.*
+*This field guide provides an overview of how we work in {{site.title}}. This includes a lot of things - how students progress through their degrees, tools and software that we use, how we meet, and how we communicate our results. This is a living document, and will grow, evolve, and change as {{site.title}} does.* {: .notice--info} 
 
 ## Progressing through your degree
 
