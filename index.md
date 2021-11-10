@@ -34,7 +34,7 @@ application_intro:
   - title: Application Domains
   - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
 application_areas:
-  - image_path: https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+  - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     title: "Additive Manufacturing"
     excerpt: "We help designers capitalize on the new capabilities provided by additive manufacturing and 3D printing."
     image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
