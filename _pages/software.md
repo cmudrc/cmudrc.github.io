@@ -12,6 +12,9 @@ gallery:
   - url: "https://github.com/THREDgroup/kaboom"
     image_path: /assets/software/kaboom.png
     title: "KABOOM"
+  - url: "https://github.com/hyform"
+    image_path: "https://raw.githubusercontent.com/hyform/branding/master/LOGO/PNG/Hyform-07.png"
+    title: "KABOOM"
 ---
 
 {% include gallery %}
