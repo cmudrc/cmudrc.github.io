@@ -16,7 +16,7 @@ header:
   caption: "[**Marius Masalar**](https://unsplash.com/@marius) on [*Unsplash*](https://unsplash.com)"
 intro:
   - excerpt: 'In the McComb Lab, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
-feature_row:
+areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "People and Teams in Design"
     excerpt: "Humans make things happen. We study individuals and teams as they create new products and systems."
@@ -33,4 +33,4 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="areas" %}
