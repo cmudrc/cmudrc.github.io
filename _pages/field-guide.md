@@ -67,3 +67,4 @@ This field guide draws on work from several other great labs, including:
 - https://sites.utexas.edu/crewslab/lab-manual/
 - https://www.nature.com/articles/d41586-018-06167-w
 - https://rennisonlab.com/lab-manual/
+- https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit#heading=h.r95vtmm1kkbh
