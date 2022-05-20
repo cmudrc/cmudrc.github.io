@@ -9,5 +9,3 @@ header:
   caption: "[**Hans-Peter Gauster**](https://unsplash.com/@sloppyperfectionist) on [*Unsplash*](https://unsplash.com)"
 ---
 Coming soon!
-<!-- {% include lab_member_gallery.html %} -->
-
