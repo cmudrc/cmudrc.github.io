@@ -5,5 +5,5 @@ main:
     url: /team/
   - title: "Publications"
     url: /publications/
-  - title: "Software"
-    url: /software/
+  - title: "Tools & Data"
+    url: /tools-and-data/
