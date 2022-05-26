@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 title: Software
-permalink: /software/
+permalink: /tools-and-data/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
