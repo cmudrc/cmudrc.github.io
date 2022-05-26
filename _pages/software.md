@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: Software
+title: Tools & Data
 permalink: /tools-and-data/
 header:
   overlay_color: "#000"
