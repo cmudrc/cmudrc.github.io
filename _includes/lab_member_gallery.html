@@ -1,6 +1,7 @@
 {% assign counter = 0 %}
 
 {% for member in site.data.members %}
+{% if member.alum %}
 {% assign counter = counter | plus: 1 %}
 {% assign mod = counter | modulo: 3 %}
 {% if mod == 1 %}
@@ -25,4 +26,6 @@
 {% if mod == 0 %}
 </div>
 {% endif %}
+{% endif %}
 {% endfor %}
+
