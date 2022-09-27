@@ -8,11 +8,11 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1474314243412-cd4a79f02c6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
   actions:
     - label: "<i class=\"fas fa-users\"></i>  Meet Our Team"
-      url: "https://design-research-collective.github.io/team/"
+      url: "https://cmudrc.github.io/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>  Join Our Team"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>  Read Our Work"
-      url: "https://design-research-collective.github.io/publications/"
+      url: "https://cmudrc.github.io/publications/"
   caption: "[**Marius Masalar**](https://unsplash.com/@marius) on [*Unsplash*](https://unsplash.com)"
 research_intro:
   - title: Research Areas
