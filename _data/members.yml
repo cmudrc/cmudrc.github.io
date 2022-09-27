@@ -6,12 +6,12 @@
   email: "ccm@cmu.edu"
   alum: false
   
-- first: Jiangce
-  last: Chen
-  role: Postdoc
-  headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGaL2gkRL79IQ/profile-displayphoto-shrink_400_400/0/1593529041039?e=1669852800&v=beta&t=8i3DOJsOcQ7cq9bj0518ZFkz5_r85LPrtHm-irTPhtw"
-  year: 2023
-  alum: false
+# - first: Jiangce
+#   last: Chen
+#   role: Postdoc
+#   headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGaL2gkRL79IQ/profile-displayphoto-shrink_400_400/0/1593529041039?e=1669852800&v=beta&t=8i3DOJsOcQ7cq9bj0518ZFkz5_r85LPrtHm-irTPhtw"
+#   year: 2023
+#   alum: false
   
 - first: Lucas
   last: Puentes
@@ -49,12 +49,16 @@
   role: Ph.D. Student
   year: 2025
   alum: false
+  email: "fboschet@andrew.cmu.edu"
+  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQGU9BLXSNNkow/profile-displayphoto-shrink_400_400/0/1549279598899?e=1669852800&v=beta&t=Tm-b3csNJrVipnq48GH98HpVJi8VI3zfjOCnQGvNSaw"
   
 - first: Martha
   last: Baldwin
   role: Ph.D. Student
   year: 2025
   alum: false
+  email: "mebaldwi@andrew.cmu.edu"
+  headshot: "https://media-exp1.licdn.com/dms/image/D4D35AQHvNQ06Jd7d-Q/profile-framedphoto-shrink_400_400/0/1663879954675?e=1664906400&v=beta&t=Fj5K8HgooGhXIDoKaQwe8t6PcSK49ZVuElxnsSznwak"
   
 - first: Scotty
   last: McGee
@@ -65,6 +69,11 @@
   last: Xu
   role: Ph.D. Student
   alum: false
+  
+# - first: Aslan
+#   last: Noorghasemi
+#   role: Ph.D. Student
+#   alum: false
   
 - first: Mathew
   last: Thomson
