@@ -166,6 +166,34 @@
   year: 2021
   degree: PhD
   alum: true
+  
+- first: Matthew
+  last: Li
+  role: Software Engineering @ Microsoft
+  year: 2021
+  degree: BS
+  alum: true
+  
+- first: Emmeline
+  last: Evans
+  role: PhD Student @ Georgia Tech
+  year: 2021
+  degree: BS
+  alum: true
+  
+- first: Emmett
+  last: Meinzer
+  role: Systems Engineer @ Lockheed Martin
+  year: 2021
+  degree: BS
+  alum: true
+  
+- first: Justin
+  last: Pierce
+  role: Additive Manufacturing Engineer @ Fabric8Labs
+  year: 2021
+  degree: BS
+  alum: true
 
 - first: Ayush
   last: Raina
