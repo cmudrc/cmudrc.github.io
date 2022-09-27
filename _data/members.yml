@@ -110,6 +110,13 @@
   year: 2019
   degree: MS
   alum: true
+  
+- first: Christian
+  last: Murphy
+  role: Corporate Application Engineer @ Saint-Gobain Abrasives
+  year: 2019
+  degree: BS
+  alum: true
 
 - first: Jacob
   last: Kintner
@@ -214,6 +221,13 @@
   role: Senior Research Scientist @ MITRE
   year: 2022
   degree: PhD
+  alum: true
+  
+- first: Venkata
+  last: Bandaru
+  role: Technology Data Integration Analyst @ Deutsche Bank
+  year: 2022
+  degree: BS
   alum: true
 
 - first: Sierra
