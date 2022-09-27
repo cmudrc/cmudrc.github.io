@@ -2,7 +2,7 @@
 <ol>
 {% for member in site.data.members %}
 {% if member.alum %}
-  <li>{{member.first}} {{member.last}}, {{ member.role }}</li>
+  <li>{{member.first}} {{member.last}}, {{member.degree}} {{member.year}}, now {{ member.role }}</li>
 {% endif %}
 {% endfor %}
 </ol>
