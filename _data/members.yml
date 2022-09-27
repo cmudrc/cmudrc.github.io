@@ -4,70 +4,80 @@
   headshot: "https://cmccomb.com/assets/images/headshot_optimized_square.jpg"
   email: "ccm@cmu.edu"
   alum: false
+  
+- first: Jiangce
+  last: Chen
+  role: Postdoc
+  alum: false
+  
+- first: Lucas
+  last: Puentes
+  role: Ph.D. Student
+  alum: false
+  
+- first: Sean
+  last: Rismiller
+  role: Ph.D. Student
+  alum: false
+  
+- first: Noriana
+  last: Radwan
+  role: Ph.D. Student
+  alum: false
+  
+- first: Akash
+  last: Agrawal
+  role: Ph.D. Student
+  alum: false
+  
+- first: Martha
+  last: Baldwin
+  role: Ph.D. Student
+  alum: false
+  
+- first: Francisco
+  last: Boschetti
+  role: Ph.D. Student
+  alum: false
+  
+- first: Mathew
+  last: Thomson
+  role: M.S. Student
+  alum: false
+  
+- first: Sierra
+  last: Hicks
+  role: M.S. Student
+  alum: true
+  
+- first: Fariha
+  last: Azhar
+  role: M.S. Student
+  alum: true
+  
 - first: Malena
   last: Agyemang
   role: Research Staff @ MITRE
-  headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGmSnNoTrp2rQ/profile-displayphoto-shrink_200_200/0/1567369730823?e=1669852800&v=beta&t=MO2-FM2rkWVzSmfAUMveGe6Apx6vXxKmjoLbFf5f6Bg"
+  headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGmSnNoTrp2rQ/profile-displayphoto-shrink_200_200/0/1567369730823?e=1669852800"
   alum: true
+
 - first: Ambrosio
   last: Valencia 
   role: Postdoc
   headshot: ""
   alum: true
-- first: Lucas
-  last: Puentes
-  role: Ph.D. Student
-  headshot: "https://thred.group/assets/headshots/puentes.jpg"
-  alum: false
+
 - first: Ayush
   last: Raina
   role: Ph.D. Student
-  headshot: "https://thred.group/assets/headshots/raina.jpg"
   alum: true
-- first: Sean
-  last: Rismiller
-  role: Ph.D. Student
-  alum: false
+  
 - first: Glen
   last: Williams
   role: Ph.D. Student
-  headshot: "https://thred.group/assets/headshots/williams.jpg"
   alum: true
-- first: Noriana
-  last: Radwan
-  role: Ph.D. Student
-  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQFDjhKKszSc9g/profile-displayphoto-shrink_400_400/0/1610585268958?e=1642032000&v=beta&t=I2_bwxD8IQvqemXZxVqHFxJwD4bW0McAAYpsusTULic"
-  linkedin: norianaradwan
-  alum: false
+  
 - first: Hannah
   last: Nolte
   role: Ph.D. Student
-  headshot: "https://thred.group/assets/headshots/nolte.jpg"
   alum: true
-- first: Akash
-  last: Agrawal
-  role: Ph.D. Student
-  headshot: "https://thred.group/assets/headshots/agrawal.jpg"
-  alum: false
-- first: Martha
-  last: Baldwin
-  role: Ph.D. Student
-  alum: false
-- first: Francisco
-  last: Boschetti
-  role: Ph.D. Student
-  alum: false
-- first: Sierra
-  last: Hicks
-  role: M.S. Student
-  headshot: "https://thred.group/assets/headshots/hicks.jpg"
-  alum: true
-- first: Fariha
-  last: Azhar
-  role: M.S. Student
-  headshot: "https://thred.group/assets/headshots/azhar.jpg"
-  alum: true
-- first: Mathew
-  last: Thomson
-  role: M.S. Student
-  alum: false
