@@ -1,7 +1,7 @@
 {% assign counter = 0 %}
 
 {% for member in site.data.members %}
-{% if !member.alum %}
+{% if member.alum == false %}
 {% assign counter = counter | plus: 1 %}
 {% assign mod = counter | modulo: 3 %}
 {% if mod == 1 %}
@@ -23,7 +23,7 @@
 </div> 
 </div>
 </div>
-{% if mod == 0 %}
+{% if mod == 0 || if forloop.last %}
 </div>
 {% endif %}
 {% endif %}
