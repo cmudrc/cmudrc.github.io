@@ -1,6 +1,7 @@
 - first: Chris
   last: McComb
   role: Director
+  year: 1000000
   headshot: "https://cmccomb.com/assets/images/headshot_optimized_square.jpg"
   email: "ccm@cmu.edu"
   alum: false
@@ -8,30 +9,29 @@
 - first: Jiangce
   last: Chen
   role: Postdoc
+  year: 2023
   alum: false
   
 - first: Lucas
   last: Puentes
   role: Ph.D. Student
+  year: 2022
   alum: false
   
 - first: Sean
   last: Rismiller
   role: Ph.D. Student
+  year: 2023
   alum: false
   
 - first: Noriana
   last: Radwan
   role: Ph.D. Student
+  year: 2022
   alum: false
   
 - first: Akash
   last: Agrawal
-  role: Ph.D. Student
-  alum: false
-  
-- first: Martha
-  last: Baldwin
   role: Ph.D. Student
   alum: false
   
@@ -40,13 +40,50 @@
   role: Ph.D. Student
   alum: false
   
+- first: Martha
+  last: Baldwin
+  role: Ph.D. Student
+  alum: false
+  
+- first: Scotty
+  last: McGee
+  role: Ph.D. Student
+  alum: false
+  
+- first: Wenzhou
+  last: Xu
+  role: Ph.D. Student
+  alum: false
+  
 - first: Mathew
   last: Thomson
   role: M.S. Student
   alum: false
   
+- first: Zeda
+  last: Xu
+  role: M.S. Student
+  alum: false
+  
+- first: Chloe
+  last: Hong
+  role: M.S. Student
+  alum: false
+
+- first: Yash
+  last: Jain
+  role: M.S. Student
+  alum: false
+
+- first: Shivam
+  last: Doshi
+  role: M.S. Student
+  year: 2022
+  alum: false
+  
 - first: Sierra
   last: Hicks
+  year: 2022
   role: M.S. Student
   alum: true
   
@@ -57,7 +94,8 @@
   
 - first: Malena
   last: Agyemang
-  role: Research Staff @ MITRE
+  year: 2022
+  role: Research Staff @ IDA
   headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGmSnNoTrp2rQ/profile-displayphoto-shrink_200_200/0/1567369730823?e=1669852800"
   alum: true
 
@@ -65,19 +103,23 @@
   last: Valencia 
   role: Postdoc
   headshot: ""
+  year: 2022
   alum: true
 
 - first: Ayush
   last: Raina
   role: Ph.D. Student
+  year: 2022
   alum: true
   
 - first: Glen
   last: Williams
   role: Ph.D. Student
+  year: 2022
   alum: true
   
 - first: Hannah
   last: Nolte
-  role: Ph.D. Student
+  role: Senior Research Scientist @ MITRE
+  year: 2022
   alum: true
