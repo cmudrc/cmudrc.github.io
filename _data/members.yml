@@ -106,7 +106,7 @@
 
 - first: Samuel
   last: Lapp
-  role: PhD Student at University of Pittsburgh
+  role: PhD Student @ University of Pittsburgh
   year: 2019
   degree: MS
   alum: true
@@ -120,14 +120,14 @@
 
 - first: Jacob
   last: Kintner
-  role: PhD Student at University of Pittsburgh
+  role: Engineer I @ Fermilab
   year: 2020
   degree: MS
   alum: true
 
 - first: Pranav
   last: Khanolkar
-  role: PhD Student at University of Toronto
+  role: PhD Student @ University of Toronto
   year: 2020
   degree: MS
   alum: true
@@ -225,7 +225,7 @@
   
 - first: Glen
   last: Williams
-  role: Principal Scientist at Re:Build Manufacturing
+  role: Principal Scientist @ Re:Build Manufacturing
   year: 2022
   degree: PhD
   alum: true
