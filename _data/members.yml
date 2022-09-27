@@ -6,13 +6,6 @@
   email: "ccm@cmu.edu"
   alum: false
   
-# - first: Jiangce
-#   last: Chen
-#   role: Postdoc
-#   headshot: "https://media-exp1.licdn.com/dms/image/C4E03AQGaL2gkRL79IQ/profile-displayphoto-shrink_400_400/0/1593529041039?e=1669852800&v=beta&t=8i3DOJsOcQ7cq9bj0518ZFkz5_r85LPrtHm-irTPhtw"
-#   year: 2023
-#   alum: false
-  
 - first: Lucas
   last: Puentes
   role: Ph.D. Student
@@ -64,21 +57,21 @@
   last: McGee
   role: Ph.D. Student
   alum: false
+  email: "scotty@cmu.edu"
+  headshot: "https://media-exp1.licdn.com/dms/image/C4D03AQH3F1HcgHwtnQ/profile-displayphoto-shrink_400_400/0/1663933853262?e=1669852800&v=beta&t=Ypz8taYqFC13YvWz6ByIhuxVFyrgwuGQ-Lkw9FN07X8"
   
 - first: Wenzhou
   last: Xu
   role: Ph.D. Student
   alum: false
-  
-# - first: Aslan
-#   last: Noorghasemi
-#   role: Ph.D. Student
-#   alum: false
+  email: "wxu2@andrew.cmu.edu"
+  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQF7C6Ae3wpAtw/profile-displayphoto-shrink_400_400/0/1638256873972?e=1669852800&v=beta&t=NNZ97OjQGEHBNYeOyAFnHzc90mCIiY1q05axK59NrV4"
   
 - first: Mathew
   last: Thomson
   role: M.S. Student
   alum: false
+  email: "mrohitth@andrew.cmu.edu"
   
 - first: Zeda
   last: Xu
@@ -94,6 +87,8 @@
   last: Jain
   role: M.S. Student
   alum: false
+  email: ""
+  headshot: ""
 
 - first: Shivam
   last: Doshi
