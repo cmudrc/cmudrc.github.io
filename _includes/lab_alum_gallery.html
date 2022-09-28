@@ -2,7 +2,8 @@
 <ol>
 {% for member in site.data.members %}
 {% if member.alum %}
-  <li><a href='{{"https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " | append: {{member.last}} | replace: " ", "%20" }}'>{{member.first}} {{member.last}}<a>, {{member.degree}} {{member.year}}, now {{ member.role }}</li>
+  {% assign z = "https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " | append: {{member.last}} | replace: " ", "%20" %}
+  <li><a href="{{z}}">{{member.first}} {{member.last}}<a>, {{member.degree}} {{member.year}}, now {{ member.role }}</li>
 {% endif %}
 {% endfor %}
 </ol>
