@@ -31,7 +31,7 @@ research_areas:
     excerpt: "We elevate AI as a partner in the problem-solving process, helping teams achieve breakthrough solutions to wicked problems."
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
     
-<!--- application_intro:
+application_intro:
   - title: Application Domains
   - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
 application_areas:
@@ -46,7 +46,7 @@ application_areas:
   - image_path: "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1769&q=80"
     title: "Unmanned Aerial Vehicles"
     excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver good and services to the people who need them most."
-    image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)" -->
+    image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)"
 
 ---
 
