@@ -3,14 +3,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Design Research Collective"
+title                    : "The Center for Behavioral Neuroscience Research"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : Institute of Mental Health and Neurosciences
 name                     : # "Your Name"
 description              : # "An amazing website."
-url                      : # "https://mccomblab.github.io"
+url                      : # 
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cmudrc/cmudrc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "imhans-neuroscience/imhans-neuroscience.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/DRC-icon1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -88,10 +88,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris McComb"
+  name             : "IMHANS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Kerala, India"
   email            :
   links:
     - label: "Email"
