@@ -30,24 +30,6 @@ research_areas:
     title: "Human-AI Collaboration"
     excerpt: "We elevate AI as a partner in the problem-solving process, helping teams achieve breakthrough solutions to wicked problems."
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
-    
-application_intro:
-  - title: Application Domains
-  - excerpt: 'Across these research areas, we make fundamental advances in some important application domains. Here are a few of those.'
-application_areas:
-  - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
-    title: "Additive Manufacturing"
-    excerpt: "We help designers capitalize on the new capabilities provided by additive manufacturing and 3D printing."
-    image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
-    title: "Marine Renewable Energy"
-    excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
-    image_caption: "[**Matt Power**](https://unsplash.com/@thisispower) on [*Unsplash*](https://unsplash.com)"
-  - image_path: "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1769&q=80"
-    title: "Unmanned Aerial Vehicles"
-    excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver good and services to the people who need them most."
-    image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)"
-
 ---
 
 {% include feature_row id="research_intro" type="center" %}
