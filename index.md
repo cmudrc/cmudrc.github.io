@@ -24,7 +24,7 @@ research_areas:
     image_caption: "[**Marvin Meyer**](https://unsplash.com/@marvelous) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     title: "Molecular Pathology"
-    excerpt: "Elucidating the molecular pathogenesis of psychiatric and neurodevelopmental disorders from genetic leads."
+    excerpt: "Elucidating the molecular pathogenesis of psychiatric and neurodevelopmental disorders."
     image_caption: "[**ThisisEngineering**](https://unsplash.com/@thisisengineering) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     title: "Electrophysiology"
