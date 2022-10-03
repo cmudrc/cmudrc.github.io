@@ -21,18 +21,5 @@ We are interested in the discovery of novel genetic risk factors for neuropsychi
 * State Board for Medical Research (SBMR), Kerala, India - Molecular genetics of Tourette Syndrome (PI: Rajith K Ravindren, Co-PI: Shabeesh Balan)
 * State Board for Medical Research (SBMR), Kerala, India - Vitamin D deficiency in patients with schizophrenia and Autism (PI: Rajith K Ravindren, Co-PI: Midhun S, Krishnakumar P)
 
-### **Diagnostic Services:**
-* **Karyotyping:** Peripheral blood chromosomal analysis for detecting numerical and structural chromosome abnormalities.
-* **Mutation Analysis:** Genotyping service for genetic variants.
-* **Genetic counselling:** Genetic counselling services for patients and at-risk individuals. 
-
-### Collaborators
-* Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience
-* Dr Varsha Vidyadharan, Department of Psychiatry, Government Medical College Calicut, Kerala
-* Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
-* Dr Dileep KV, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
-* Dr Neetha Balaram, Department of Neurology, Government Medical College Calicut, Kerala
-
 #### **We are funded by:**
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5pOSkt7jjlLU9JTWx6CTf4uDivunQpaFtoH-k7Vw0PncZRxPAUTbyuBBaBOyGOvqTcw&usqp=CAU" alt="drawing" width="100"/> <img src="https://kscste.kerala.gov.in/wp-content/uploads/2019/06/emblem.jpg" alt="drawing" width="100" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWr-lFGQbOGJ598HZ_n3rgqAUu5A3AAKBAvA&usqp=CAU" alt="drawing" width="100" /> <img src="https://i.imgur.com/VRLwdLI.png" alt="drawing" width="100" />
-
