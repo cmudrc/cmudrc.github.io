@@ -15,12 +15,6 @@ The Center for Behavioral Neuroscience Research at Institute of Mental Health an
 #### **Research area:** 
 We are interested in the discovery of novel genetic risk factors for neuropsychiatric diseases. We further aim to mechanistically evaluate the genetic risk factors by molecular, cellular, neurophysiological, and behavioural phenotyping to characterise molecular pathogenesis of neuropsychiatric diseases for druggable targets and biomarkers.
 
-* Impact of carbonyl stress in synergy with genetic risk for schizophrenia pathogenesis
-* Identifying biomarkers for drug-resistant tourette syndrome
-* Machine learning-based spectral analysis and Latent Content Analysis to identify the semantic content from malayalam language to be used as a potential biomarker for psychosis
-* Electrophysiological and sleep characterisation in familial somniloquy
-* Genetic correlates of sensory processing deficits in autism spectrum disorders
-
 #### **Research Grants:**
 * Science Research Scheme (SRS), Kerala State Council for Science, Technology & Environment (KSCSTE)- Elucidating the mechanistic role of sleep quality for elevated carbonyl stress in schizophrenia (PI: Rajith K Ravindren, Co-PI: Shabeesh Balan, Anish P K)
 * Department of Health Research, Ministry of Health and Family Welfare, India - Synergestic effect of genetic risk factor and the carbonyl stress in schizophrenia (PI: Shabeesh Balan , Co-PI: Rajith K Ravindren)
