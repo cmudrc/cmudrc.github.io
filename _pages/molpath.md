@@ -10,5 +10,5 @@ header:
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
 * Impact of carbonyl stress in synergy with genetic risk for schizophrenia pathogenesis
-* Evaluating role of sleep deficits on crbonyl stress in schizophrenia
+* Evaluating role of sleep deficits on carbonyl stress in schizophrenia
 * Identifying biomarkers for drug-resistant tourette syndrome
