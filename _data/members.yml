@@ -28,14 +28,14 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: ""
+  headshot: "/assets/images/"
   
 - first: Shibila
   last: AM
   year: 1000000
   role: Laboratory Assistant
   email: ""
-  headshot: ""
+  headshot: "/assets/images/"
   alum: false
   
 - first: Midhun
@@ -44,7 +44,7 @@
   year: 2022
   alum: false
   email: ""
-  headshot: ""
+  headshot: "/assets/images/"
   
 - first: Nishanth
   last: JH
@@ -52,7 +52,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: ""
+  headshot: "/assets/images/"
    
 - first: Devangana
   last: Rajan
