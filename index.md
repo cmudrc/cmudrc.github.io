@@ -8,12 +8,12 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1474314243412-cd4a79f02c6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80"
   actions:
     - label: "<i class=\"fas fa-users\"></i>  Meet Our Team"
-      url: "https://cmudrc.github.io/team/"
+      url: "https://imhans-neuroscience.github.io/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>  Join Our Team"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>  Read Our Work"
       url: "https://cmudrc.github.io/publications/"
-  caption: "[**Marius Masalar**](https://unsplash.com/@marius) on [*Unsplash*](https://unsplash.com)"
+  caption: "[Marius Masalar](https://unsplash.com/@marius) on [Unsplash](https://unsplash.com)"
 research_intro:
   - title: Research Areas
   - excerpt: 'The Center for Behavioral Neuroscience Research at Institute of Mental Health and Neurosciences (CBNR-IMHANS) is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders'
@@ -32,5 +32,5 @@ research_areas:
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
 ---
 
-{% include feature_row id="research_intro" type="center" %}
+{% include feature_row id="research_intro" %}
 {% include feature_row id="research_areas" %}
