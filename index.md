@@ -10,7 +10,7 @@ header:
     - label: "<i class=\"fas fa-users\"></i>  Meet Our Team"
       url: "https://imhans-neuroscience.github.io/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>  Join Our Team"
-      url: "/joinus/"
+      url: "/join/"
     - label: "<i class=\"fas fa-book-reader\"></i>  Our Facilities"
       url: "/facility/"
   caption: "[Marius Masalar](https://unsplash.com/@marius) on [Unsplash](https://unsplash.com)"
