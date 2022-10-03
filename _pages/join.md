@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 title: Join Us
-permalink: /joinus/
+permalink: /join/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
