@@ -22,55 +22,41 @@
   alum: false
   headshot: "/assets/images/"
   
-- first: Noriana
-  last: Radwan
-  role: Ph.D. Student
+- first: Ranjitha
+  last: M
+  role: Research Technician
+  year: 1000000
+  alum: false
+  email: ""
+  headshot: ""
+  
+- first: Shibila
+  last: AM
+  year: 1000000
+  role: Laboratory Assistant
+  email: ""
+  headshot: ""
+  alum: false
+  
+- first: Midhun
+  last: Sidharthan
+  role: Visiting Researcher (Ph.D. Scholar)
   year: 2022
   alum: false
-  email: "nradwan@psu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C4D03AQE8XOJRE1P9YQ/profile-displayphoto-shrink_400_400/0/1642115205910?e=1669852800&v=beta&t=Gao5Bg-25DTBzY5h1qn2pnkfksrnJVn8Ejb1UeKCWZ4"
+  email: ""
+  headshot: ""
   
-- first: Akash
-  last: Agrawal
-  year: 2024
-  role: Ph.D. Student
-  email: "aragrawa@andrew.cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQHOZY9XMq1Pvw/profile-displayphoto-shrink_400_400/0/1626885654043?e=1669852800&v=beta&t=9WUv2GApwW60jTjTPMAu4SKR0oG99sddww8tlIH_Y7A"
+- first: Nishanth
+  last: JH
+  role: Visiting Researcher 
+  year: 1000000
   alum: false
-  
-- first: Francisco
-  last: Boschetti
-  role: Ph.D. Student
-  year: 2025
-  alum: false
-  email: "fboschet@andrew.cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQGU9BLXSNNkow/profile-displayphoto-shrink_400_400/0/1549279598899?e=1669852800&v=beta&t=Tm-b3csNJrVipnq48GH98HpVJi8VI3zfjOCnQGvNSaw"
-  
-- first: Martha
-  last: Baldwin
-  role: Ph.D. Student
-  year: 2025
-  alum: false
-  email: "mebaldwi@andrew.cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/D4D35AQHvNQ06Jd7d-Q/profile-framedphoto-shrink_400_400/0/1663879954675?e=1664906400&v=beta&t=Fj5K8HgooGhXIDoKaQwe8t6PcSK49ZVuElxnsSznwak"
-  
-- first: Scotty
-  last: McGee
-  role: Ph.D. Student
-  alum: false
-  email: "scotty@cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C4D03AQH3F1HcgHwtnQ/profile-displayphoto-shrink_400_400/0/1663933853262?e=1669852800&v=beta&t=Ypz8taYqFC13YvWz6ByIhuxVFyrgwuGQ-Lkw9FN07X8"
-  
-- first: Wenzhou
-  last: Xu
-  role: Ph.D. Student
-  alum: false
-  email: "wxu2@andrew.cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQF7C6Ae3wpAtw/profile-displayphoto-shrink_400_400/0/1638256873972?e=1669852800&v=beta&t=NNZ97OjQGEHBNYeOyAFnHzc90mCIiY1q05axK59NrV4"
-  
-- first: Mohammad
-  last: Alzayed
-  role: Assistant Professor @ Kuwait University
-  year: 2020
-  degree: PhD
+  email: ""
+  headshot: ""
+   
+- first: Devangana
+  last: Rajan
+  role: Research Intern (University of Glasgow)
+  year: 2022
+  degree: Undergraduate Student (B.Sc Neuroscience)
   alum: true
