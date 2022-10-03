@@ -25,3 +25,11 @@ We are interested in the discovery of novel genetic risk factors for neuropsychi
 * **Karyotyping:** Peripheral blood chromosomal analysis for detecting numerical and structural chromosome abnormalities.
 * **Mutation Analysis:** Genotyping service for genetic variants.
 * **Genetic counselling:** Genetic counselling services for patients and at-risk individuals. 
+
+### Collaborators
+* Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience
+* Dr Varsha Vidyadharan, Department of Psychiatry, Government Medical College Calicut, Kerala
+* Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
+* Dr Dileep KV, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
+* Dr Neetha Balaram, Department of Neurology, Government Medical College Calicut, Kerala
+
