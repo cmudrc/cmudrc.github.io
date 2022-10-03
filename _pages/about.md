@@ -21,12 +21,6 @@ We are interested in the discovery of novel genetic risk factors for neuropsychi
 * Electrophysiological and sleep characterisation in familial somniloquy
 * Genetic correlates of sensory processing deficits in autism spectrum disorders
 
-#### **Facilities:**
-The laboratory has a state-of-the-art facility to address research questions to elucidate the pathogenesis of psychiatric and neurodevelopmental disorders and for advanced clincal diagnosis.
-
-**Molecular biology:** Sanger sequencer, Thermal cyclers (normal and Realtime), Flouroscent microscope, Plate readers, Basic molecular biology and microbiology facility, Stem cell biology laboratory
-**Neurophysiology:** Video Electroencephalography (EEG), Polysomnography (PSG), Brainstem Evoked Response Audiometry (BERA), Visual Evoked Potential (VEP), Nerve Conduction Studies (NCS) and Electromyography (EMG)
-
 #### **Research Grants:**
 * Science Research Scheme (SRS), Kerala State Council for Science, Technology & Environment (KSCSTE)- Elucidating the mechanistic role of sleep quality for elevated carbonyl stress in schizophrenia (PI: Rajith K Ravindren, Co-PI: Shabeesh Balan, Anish P K)
 * Department of Health Research, Ministry of Health and Family Welfare, India - Synergestic effect of genetic risk factor and the carbonyl stress in schizophrenia (PI: Shabeesh Balan , Co-PI: Rajith K Ravindren)
