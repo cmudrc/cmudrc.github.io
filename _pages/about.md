@@ -9,32 +9,25 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1595694548657-8e6f0d681f8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80"
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
-**About us**
+#### **About us**
 The Center for Behavioral Neuroscience Research at Institute of Mental Health and Neurosciences (CBNR-IMHANS), Kerala is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders. The laboratories was set up as a part of the Centre of Excellence grant from the Government of India. Our research involves delineating genetic basis of psychiatric and neurodevelopmental disorders, elucidating the molecular pathogenesis from genetic leads, electrophysiological correlates of cognition and behavior, sleep deficits in psychiatric disorders.
 
-### **Research area:** 
+#### **Research area:** 
 We are interested in the discovery of novel genetic risk factors for neuropsychiatric diseases. We further aim to mechanistically evaluate the genetic risk factors by molecular, cellular, neurophysiological, and behavioural phenotyping to characterise molecular pathogenesis of neuropsychiatric diseases for druggable targets and biomarkers.
 
 * Impact of carbonyl stress in synergy with genetic risk for schizophrenia pathogenesis
-(*Investigators: Shabeesh Balan, Mubashira V, Rajith Ravindren*)
 * Identifying biomarkers for drug-resistant tourette syndrome
-(*Investigators: Rajith Ravindren, Shabeesh Balan*)
 * Machine learning-based spectral analysis and Latent Content Analysis to identify the semantic content from malayalam language to be used as a potential biomarker for psychosis
-(*Investigators: Rajith Ravindren, Shabeesh Balan*)
 * Electrophysiological and sleep characterisation in familial somniloquy
-(*Investigators: Nishanth JH, Rajith Ravindren, Shibila AM*)
 * Genetic correlates of sensory processing deficits in autism spectrum disorders
-(*Investigators: Midhun S, Shabeesh Balan*)
 
-### **Facilities:**
+#### **Facilities:**
 The laboratory has a state-of-the-art facility to address research questions to elucidate the pathogenesis of psychiatric and neurodevelopmental disorders and for advanced clincal diagnosis.
 
 **Molecular biology:** Sanger sequencer, Thermal cyclers (normal and Realtime), Flouroscent microscope, Plate readers, Basic molecular biology and microbiology facility, Stem cell biology laboratory
-
 **Neurophysiology:** Video Electroencephalography (EEG), Polysomnography (PSG), Brainstem Evoked Response Audiometry (BERA), Visual Evoked Potential (VEP), Nerve Conduction Studies (NCS) and Electromyography (EMG)
 
-### **Research Grants:**
-
+#### **Research Grants:**
 * Science Research Scheme (SRS), Kerala State Council for Science, Technology & Environment (KSCSTE)- Elucidating the mechanistic role of sleep quality for elevated carbonyl stress in schizophrenia (PI: Rajith K Ravindren, Co-PI: Shabeesh Balan, Anish P K)
 * Department of Health Research, Ministry of Health and Family Welfare, India - Synergestic effect of genetic risk factor and the carbonyl stress in schizophrenia (PI: Shabeesh Balan , Co-PI: Rajith K Ravindren)
 * State Board for Medical Research (SBMR), Kerala, India - Molecular genetics of Tourette Syndrome (PI: Rajith K Ravindren, Co-PI: Shabeesh Balan)
