@@ -12,7 +12,7 @@ header:
     - label: "<i class=\"fas fa-user-plus\"></i>  Join Our Team"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>  Our Facilities"
-      url: "https://cmudrc.github.io/publications/"
+      url: "/facility/"
   caption: "[Marius Masalar](https://unsplash.com/@marius) on [Unsplash](https://unsplash.com)"
 research_intro:
   - title: Research Areas
