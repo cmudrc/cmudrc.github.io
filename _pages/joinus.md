@@ -1,8 +1,8 @@
 ---
 layout: splash
 classes: wide
-title: Electrophysiology
-permalink: /elec/
+title: Join Us
+permalink: /joinus/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
