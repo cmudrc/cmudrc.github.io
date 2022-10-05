@@ -9,6 +9,7 @@ header:
   overlay_image: "https://images.unsplash.com/photo-1595694548657-8e6f0d681f8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80"
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
+<font size="3">
 #### **About us**
 The Center for Behavioral Neuroscience Research at Institute of Mental Health and Neurosciences (CBNR-IMHANS), Kerala is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders. The laboratories was set up as a part of the Centre of Excellence grant from the Government of India. Our research involves delineating genetic basis of psychiatric and neurodevelopmental disorders, elucidating the molecular pathogenesis from genetic leads, electrophysiological correlates of cognition and behavior, sleep deficits in psychiatric disorders.
 
@@ -23,3 +24,5 @@ We are interested in the discovery of novel genetic risk factors for neuropsychi
 
 #### **We are funded by:**
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5pOSkt7jjlLU9JTWx6CTf4uDivunQpaFtoH-k7Vw0PncZRxPAUTbyuBBaBOyGOvqTcw&usqp=CAU" alt="drawing" width="100"/> <img src="https://kscste.kerala.gov.in/wp-content/uploads/2019/06/emblem.jpg" alt="drawing" width="100" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWr-lFGQbOGJ598HZ_n3rgqAUu5A3AAKBAvA&usqp=CAU" alt="drawing" width="100" /> <img src="https://i.imgur.com/VRLwdLI.png" alt="drawing" width="100" />
+  
+3</font>
