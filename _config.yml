@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "IMHANS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : # "I am an **amazing** person."
   location         : "Kerala, India"
   email            :
   links:
@@ -118,13 +118,13 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ccm@cmu.edu"
+      url: "mailto:cbnr@imhans.ac.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url:"twitter.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "www.facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/cmudrc/
@@ -133,7 +133,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "instagram.com"
 
 
 # Reading Files
