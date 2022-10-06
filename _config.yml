@@ -293,3 +293,6 @@ publications:
     - "Development Engineering"
 atom_feed:
   hide: true
+  
+# Ideal image slider
+iis_slider_array: []
