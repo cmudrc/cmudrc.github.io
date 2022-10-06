@@ -32,5 +32,5 @@ research_areas:
     image_caption: "[**Adi Golstein**](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
 ---
 
-{% include feature_row id="research_intro" type = "center" %}
+{% include feature_row id="research_intro" type = "justify" %}
 {% include feature_row id="research_areas" %}
