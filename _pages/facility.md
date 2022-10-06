@@ -17,7 +17,7 @@ gallery:
     image_path: /assets/software/realtime.jpeg
     title: "Real-time PCR"
   - url: ""
-    image_path: "/assets/software/micro.jpeg"
+    image_path: /assets/software/micro.jpeg
     title: "Flouroscent Microscope"
   - url: ""
     image_path: /assets/software/PCR.jpeg
@@ -26,7 +26,7 @@ gallery:
     image_path: /assets/software/geldoc.jpeg
     title: "Gel doc"
   - url: ""
-    image_path: "/assets/software/electrop.jpeg"
+    image_path: /assets/software/electrop.jpeg
     title: "Electroporator"
   - url: ""
     image_path: /assets/software/seq.jpeg
@@ -35,7 +35,7 @@ gallery:
     image_path: /assets/software/cellculture.jpeg
     title: "Cell culture"
   - url: ""
-    image_path: "/assets/software/reader.jpeg"
+    image_path: /assets/software/reader.jpeg
     title: "Microplate reader"
    - url: ""
     image_path: /assets/software/workbench.jpeg
@@ -44,10 +44,10 @@ gallery:
     image_path: /assets/software/freezer.jpeg
     title: "Deep Freezer"
   - url: ""
-    image_path: "/assets/software/eeg.jpeg"
+    image_path: /assets/software/eeg.jpeg
     title: "EEG"
   - url: ""
-    image_path: "/assets/software/emg.jpeg"
+    image_path: /assets/software/emg.jpeg
     title: "EMG"
 ---
 
