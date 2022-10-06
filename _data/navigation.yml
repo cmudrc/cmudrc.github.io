@@ -7,3 +7,5 @@ main:
     url: /team/
   - title: "Publications"
     url: /publications/
+  - title: "Academic"
+    url: /academic/
