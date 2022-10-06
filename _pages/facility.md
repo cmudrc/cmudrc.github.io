@@ -48,6 +48,22 @@ gallery:
 ---
 {% include gallery %}
 
+
+
+bower install ideal-image-slider --save
+<html>
+<head>
+	...
+	<link rel="stylesheet" href="/ideal-image-slider.css">
+	<link rel="stylesheet" href="/themes/default/default.css">
+	...
+</head>
+<body>
+	...
+	<script src="/ideal-image-slider.js"></script>
+</body>
+</html>
+
 <div id="slider">
   <img src="/assets/software/emg.jpeg" alt="alt text 1">
   <img src="/assets/software/eeg.jpeg" alt="alt text 2">
