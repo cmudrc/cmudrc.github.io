@@ -48,6 +48,12 @@ gallery:
 ---
 {% include gallery %}
 
+<div id="slider">
+  <img src="/assets/software/emg.jpeg" alt="alt text 1">
+  <img src="/assets/software/eeg.jpeg" alt="alt text 2">
+  <img src="/assets/software/workbench.jpeg" alt="alt text 3">
+</div>
+
 #### **Facilities:**
 The laboratory has a state-of-the-art facility to address research questions to elucidate the pathogenesis of psychiatric and neurodevelopmental disorders and for advanced clincal diagnosis.
 ##### **Molecular biology:** 
