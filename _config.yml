@@ -90,7 +90,7 @@ analytics:
 author:
   name             : "IMHANS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "I am an **amazing** person."
   location         : "Kerala, India"
   email            :
   links:
@@ -121,13 +121,13 @@ footer:
       url: "mailto:cbnr@imhans.ac.in"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url:"twitter.com"
+      url: "twitter.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "www.facebook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/imhans-neuroscience/imhans-neuroscience.github.io
+      url: "https://github.com/imhans-neuroscience/imhans-neuroscience.github.io"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
