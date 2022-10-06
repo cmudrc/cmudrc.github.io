@@ -17,6 +17,7 @@ header:
 research_intro:
   - title: Research Areas
   - excerpt: 'The Center for Behavioral Neuroscience Research at Institute of Mental Health and Neurosciences (CBNR-IMHANS) is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders'
+
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: <a href="/molgen/"> Molecular Genetics</a>
