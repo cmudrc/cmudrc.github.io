@@ -19,9 +19,6 @@ gallery:
     image_path: /assets/software/micro.jpeg
     title: "Flouroscent Microscope"
   - url: "https://imhans-neuroscience.github.io/facility/"
-    image_path: /assets/software/PCR.jpeg
-    title: "PCR"
-  - url: "https://imhans-neuroscience.github.io/facility/"
     image_path: /assets/software/geldoc.jpeg
     title: "Gel doc"
   - url: "https://imhans-neuroscience.github.io/facility/"
