@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: About us
+title: Research Area
 permalink: /research/
 header:
   overlay_color: "#000"
