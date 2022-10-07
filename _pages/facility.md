@@ -46,7 +46,7 @@ gallery:
     image_path: /assets/software/emg.jpeg
     title: "EMG"
 ---
-{% include gallery %}
+#{% include gallery %}
 
 #### **Facilities:**
 The laboratory has a state-of-the-art facility to address research questions to elucidate the pathogenesis of psychiatric and neurodevelopmental disorders and for advanced clincal diagnosis.
