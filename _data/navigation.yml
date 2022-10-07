@@ -1,8 +1,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "About us"
-    url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Academic"
     url: /academic/
   - title: "Team"
