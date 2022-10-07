@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 title: About us
-permalink: /about/
+permalink: /research/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
