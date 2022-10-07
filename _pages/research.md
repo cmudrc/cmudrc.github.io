@@ -13,7 +13,7 @@ header:
 #### **Research Projects:** 
 
 | Project | Investigators | Cost  | Funding agency |
-|-----------------|-------------|---------------|---------------|
+|:-----------------:|:-------------:|:---------------:|:---------------:|
 | PI: Rajith K Ravindren, Co-PI: Shabeesh Balan, Anish P K | Elucidating the mechanistic role of sleep quality for elevated carbonyl stress in schizophrenia | 3000K | Science Research Scheme (SRS), Kerala State Council for Science, Technology & Environment (KSCSTE), India |
 | PI: Shabeesh Balan , Co-PI: Rajith K Ravindren| Synergestic effect of genetic risk factor and the carbonyl stress in schizophrenia | 5860K |Department of Health Research (DHR), Ministry of Health and Family Welfare, India |
 | PI: Rajith K Ravindren, Co-PI: Shabeesh Balan | Molecular genetics of Tourette Syndrome | 100K | State Board for Medical Research (SBMR), Kerala, India |
