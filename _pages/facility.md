@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: homelay
 classes: wide
 title: Our Facilities
 permalink: /facility/
