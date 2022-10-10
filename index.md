@@ -35,3 +35,4 @@ research_areas:
 
 {% include feature_row id="research_intro" type = "justify" %}
 {% include feature_row id="research_areas" %}
+{% include tweets.html %}
