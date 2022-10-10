@@ -3,7 +3,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The Center for Behavioral Neuroscience Research"
+title                    : "The Center for Interdisciplinary Brain Sciences"
 title_separator          : "-"
 subtitle                 : Institute of Mental Health and Neurosciences, Kerala
 name                     : # "Your Name"
@@ -13,7 +13,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "imhans-neuroscience/imhans-neuroscience.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/CBNR1.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : CIBS-IMHANS
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
