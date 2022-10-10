@@ -16,7 +16,7 @@ header:
   caption: "[Marius Masalar](https://unsplash.com/@marius) on [Unsplash](https://unsplash.com)"
 research_intro:
   - title: About Us
-  - excerpt: 'The Center for Behavioral Neuroscience Research at Institute of Mental Health and Neurosciences (CBNR-IMHANS), Kerala is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders. The laboratories was set up as a part of the Centre of Excellence grant from the Government of India. Our research involves delineating genetic basis of psychiatric and neurodevelopmental disorders, elucidating the molecular pathogenesis from genetic leads, Characterizing electrophysiological correlates of cognition and behavior, Evaluating sleep deficits in psychiatric disorders'
+  - excerpt: The Center for Interdisciplinary Brain Sciences at Institute of Mental Health and Neurosciences (CIBS-IMHANS), Kerala is a flagship research center established to address fundamental and translational research questions in psychiatric and neurodevelopmental disorders. Our research involves delineating genetic and epigenetic basis of psychiatric and neurodevelopmental disorders, elucidating the molecular pathogenesis from genetic/epigenetic leads, characterizing electrophysiological correlates of cognition and behavior, evaluating sleep and circadian rhythm deficits in psychiatric disorders. The laboratories was set up as a part of the Centre of Excellence grant from the Government of India. 
 
 research_areas:
   - image_path: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
