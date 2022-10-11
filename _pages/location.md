@@ -12,7 +12,7 @@ header:
 
 
 #### Office
-<img style="float: right;" src="https://i.imgur.com/YKclqWk.png" alt="drawing" width="400"> <font size = "5"> The Center for Interdisciplinary Brain Sciences, Institute of Mental Health and Neurosciences, Medical College Post, Kozhikode, Kerala, India, 673008, Tel: +91(India)-495-2359352 </font>
+<img style="float: right;" src="https://i.imgur.com/YKclqWk.png" alt="drawing" width="600"> <font size = "5"> The Center for Interdisciplinary Brain Sciences, Institute of Mental Health and Neurosciences, Medical College Post, Kozhikode, Kerala, India, 673008, Tel: +91(India)-495-2359352 </font>
 #### Access
 * <font size = "5"> **Airport**: IMHANS is accessible through two international airports, Calicut International Airport (IATA: CCJ) 27 Km and Kannur International Airport (IATA: CNN) 101 Km.</font>
 * <font size = "5"> **Railway**: Nearest railway station is Kozhikode which is 9.5 Km away and is well connected through public transport facility (Bus, autorickshaw) towards medical college, Kozhikode </font>
