@@ -14,7 +14,7 @@ header:
 {% include scholar/_includes/publications venue=journal_list link=true %}
 
 ## News
-<marquee direction = "left"><a href="https://imhansseminarseries.github.io/"> IMHANS Seminar Series in Psychiatry and Behavioral Neuroscience 2022 </marquee>
+<marquee direction = "left"><a href="https://imhansseminarseries.github.io/"> IMHANS Seminar Series in Psychiatry and Behavioral Neuroscience 2022 </a> </marquee>
 
 <!--
 ## Conference
