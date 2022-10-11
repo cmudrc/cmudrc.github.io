@@ -14,8 +14,11 @@ header:
 <font size = "4">People interested in post-doctoral positions should have a strong interest in Biological Psychiatry. Candidates with PhD, who would like to be hosted by the lab to apply for external funding are welcome to contact respective investigators.</font> 
 
 #### PhD program
-<font size = "4">The CIBR faculties are recognised research guides of Kerala University of Health Sciences (KUHS), Kerala India. PhD aspirants who meets the selection requirements of KUHS and IMHANS can work towards their PhD degree.</font>
+<font size = "4">The IMHANS-CIBS faculties are recognised research guides of Kerala University of Health Sciences (KUHS), Kerala India. PhD aspirants who meets the selection requirements of KUHS and IMHANS can work towards their PhD degree.</font>
+
+#### MD Psychiatry Dissertation
+<font size = "4"> MD Psychiatry residents, who are interested to work on molecular and biological basis of psychiatric disorders are welcome to contact research investigators.</font>
 
 #### Undergraduate Research
-<font size = "4">We welcome highly motivated Undergraduate students who would like to gain research experience through ongoing projects in our lab. Students will work closely with supervisors to learn techniques employed in the lab.
+<font size = "4">We welcome highly motivated Undergraduate students who would like to gain research experience through ongoing projects in our lab. Students will work closely with supervisors to learn techniques employed in the lab.<br/>
 * Time Commitment: At least 4-8 hours per week (depending on the project), 6 months (minimum)</font>
