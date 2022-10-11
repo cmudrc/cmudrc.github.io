@@ -9,3 +9,5 @@ main:
     url: /team/
   - title: "Publications"
     url: /publications/
+  - title: "Contact"
+    url: /contact/
