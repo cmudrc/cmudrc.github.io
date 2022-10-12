@@ -24,7 +24,7 @@
   
 - first: Mubashira 
   last: V
-  role: Junior Research Fellow
+  role: Junior Research Fellow (Molecular Psychiatry)
   year: 1000000
   email: ""
   alum: false
@@ -32,7 +32,7 @@
   
 - first: Ranjitha
   last: M
-  role: Research Technician
+  role: Research Technician (Cytogenetics)
   year: 1000000
   alum: false
   email: ""
@@ -41,14 +41,14 @@
 - first: Shibila
   last: AM
   year: 1000000
-  role: Laboratory Assistant
+  role: Laboratory Assistant (Electrophysiology)
   email: ""
   headshot: "/assets/headshots/shibila.jpeg"
   alum: false
   
 - first: Midhun
   last: Sidharthan
-  role: Visiting Researcher (Ph.D. Scholar)
+  role: Visiting Researcher <br/> (Ph.D. Scholar)
   year: 2022
   alum: false
   email: ""
@@ -64,7 +64,7 @@
    
 - first: Devangana
   last: Rajan
-  role: B.Sc. Neuroscience (University of Glasgow)
+  role: 
   year: 2022
-  degree: Undegraduate Research Intern
+  degree: Undegraduate Research Intern (B.Sc. Neuroscience, University of Glasgow)
   alum: true
