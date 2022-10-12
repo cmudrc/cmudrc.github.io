@@ -11,7 +11,7 @@ header:
 ---
 
 
-<img style="float: right;" src="/assets/CBNR1.png" alt="drawing" width="600"> 
+<img style="float: right;" src="/assets/CBNR1.png" alt="drawing" width="400"> 
 
 #### Access
 * <font size = "4"> Airport: IMHANS is accessible through two international airports, Calicut International Airport (IATA: CCJ) 27 Km and Kannur International Airport (IATA: CNN) 101 Km.</font>
