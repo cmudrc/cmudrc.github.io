@@ -2,7 +2,7 @@
   last: Padinharath
   role: Director and Research Investigator (Professor)
   year: 1000000
-  headshot: "/assets/headshots/"
+  headshot: "/assets/headshots/kk.jpeg"
   email: ""
   alum: false
   
@@ -20,7 +20,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: "/assets/images/"
+  headshot: "/assets/headshots/rajith.jpeg"
   
 - first: Mubashira 
   last: V
@@ -36,7 +36,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: "/assets/images/"
+  headshot: "/assets/headshots/ranjitha.jpeg"
   
 - first: Shibila
   last: AM
@@ -60,7 +60,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: "/assets/images/"
+  headshot: "/assets/headshots/nishanth.jpeg"
    
 - first: Devangana
   last: Rajan
