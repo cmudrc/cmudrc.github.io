@@ -1,14 +1,15 @@
+
 <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.5/gradio.js"></script>
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Small modal -->
-<button type="button" class="w3-black w3-btn w3-circle w3-display-bottomright w3-margin-bottom w3-margin-right w3-padding-16"  onclick="document.getElementById('id01').style.display='block'">
+<button type="button" class="w3-black w3-btn w3-circle w3-display-bottomright w3-margin-bottom w3-margin-right w3-padding-16" style="z-index: 20" onclick="document.getElementById('id01').style.display='block'">
     <i class="fa fa-commenting w3-xxlarge"></i>
 </button>
 
 <div id="id01" class="w3-modal">
-  <div class="w3-modal-content w3-display-bottomright w3-margin-bottom w3-margin-right" style="max-width:400px;">
+  <div class="w3-modal-content w3-display-bottomright w3-margin-bottom w3-margin-right" style="max-width:400px; z-index: 20">
       <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
     <div class="w3-container" style="padding: 2.5em 0 0;">
       <gradio-app space="ccm/web-hammie"></gradio-app>
