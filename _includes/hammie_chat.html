@@ -1,35 +1,17 @@
-
 <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/3.5/gradio.js"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
-      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Small modal -->
-<button type="button" class="btn btn-dark rounded-pill" data-toggle="modal"
-        style="position: fixed; bottom: 20px; right: 20px;" data-target=".bd-example-modal-sm">
-    Chat with 🐹
+<button type="button" class="w3-black w3-btn w3-circle w3-display-bottomright w3-margin-bottom w3-margin-right w3-padding-16"  onclick="document.getElementById('id01').style.display='block'">
+    <i class="fa fa-commenting w3-xxlarge"></i>
 </button>
 
-<div class="modal bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel"
-     aria-hidden="true">
-    <div class="modal-dialog" style="position:fixed; bottom:19px; right:19px; margin:0;">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h5 class="modal-title" id="exampleModalLabel">Welcome!</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
-            <gradio-app space="ccm/web-hammie"></gradio-app>
-        </div>
+<div id="id01" class="w3-modal">
+  <div class="w3-modal-content w3-display-bottomright w3-margin-bottom w3-margin-right" style="max-width:400px;">
+      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+    <div class="w3-container" style="padding: 2.5em 0 0;">
+      <gradio-app space="ccm/web-hammie"></gradio-app>
     </div>
+  </div>
 </div>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-        crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
-        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-        crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
-        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-        crossorigin="anonymous"></script>
