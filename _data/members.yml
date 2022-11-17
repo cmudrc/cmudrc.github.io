@@ -46,6 +46,22 @@
   headshot: "/assets/headshots/shibila.jpeg"
   alum: false
   
+- first: Kartika
+  last: Jayaprakash
+  year: 1000000
+  role: MPhil Student (dissertation)
+  email: ""
+  headshot: "/assets/headshots/kartika.jpeg"
+  alum: false
+  
+- first: Sreelakshmi
+  last: VP
+  year: 1000000
+  role: MPhil Student (dissertation)
+  email: ""
+  headshot: "/assets/headshots/sreelakshmi.jpeg"
+  alum: false
+  
 - first: Midhun
   last: Sidharthan
   role: Visiting Researcher <br/> (Ph.D. Scholar)
