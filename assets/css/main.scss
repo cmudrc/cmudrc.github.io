@@ -11,13 +11,13 @@ $cmu-drc-teal: #4d8687;
 $cmu-drc-blue: #57b7ba;
 $cmu-drc-forest: #1e3f3e;
 
-$serif      : Magdelin Regular, Georgia, Times, serif;
-$sans-serif : Zilla Slab Regular, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : Zilla Slab Regular, Georgia, Times, serif;
+$sans-serif : Magdelin Regular, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$caption-font-family: $sans-serif !default;
 
 h1,
 h2,
@@ -29,7 +29,7 @@ h6 {
 }
 
 .archive__item-title, .site-title {
-  font-family: $serif;
+  font-family: $sans-serif;
   text-transform: uppercase;
 }
 
