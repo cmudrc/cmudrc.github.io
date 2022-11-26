@@ -5,33 +5,33 @@ search: false
 
 @charset "utf-8";
 
-$cmu-drc-orange: #df5127;
-$cmu-drc-gold: #ea8534;
-$cmu-drc-teal: #4d8687;
-$cmu-drc-blue: #57b7ba;
-$cmu-drc-forest: #1e3f3e;
+// $cmu-drc-orange: #df5127;
+// $cmu-drc-gold: #ea8534;
+// $cmu-drc-teal: #4d8687;
+// $cmu-drc-blue: #57b7ba;
+// $cmu-drc-forest: #1e3f3e;
 
-$serif      : Zilla Slab Regular, Georgia, Times, serif;
-$sans-serif : Magdelin SemiBold, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace  : Monaco, Consolas, "Lucida Console", monospace;
+// $serif      : Zilla Slab Regular, Georgia, Times, serif;
+// $sans-serif : Magdelin SemiBold, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-$global-font-family: $serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+// $global-font-family: $serif !default;
+// $header-font-family: $sans-serif !default;
+// $caption-font-family: $serif !default;
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-transform: uppercase;
-}
+// h1,
+// h2,
+// h3,
+// h4,
+// h5,
+// h6 {
+//   text-transform: uppercase;
+// }
 
-.btn, .masthead__menu-item, .archive__item-title, .site-title {
-  font-family: $sans-serif;
-  text-transform: uppercase;
-}
+// .btn, .masthead__menu-item, .archive__item-title, .site-title {
+//   font-family: $sans-serif;
+//   text-transform: uppercase;
+// }
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
