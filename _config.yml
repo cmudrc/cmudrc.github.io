@@ -12,7 +12,7 @@ url                      : # "https://mccomblab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cmudrc/cmudrc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/DRC-icon1.png"
+logo                     : "DRC-Horizontal-Full.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
