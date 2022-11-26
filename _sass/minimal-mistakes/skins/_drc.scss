@@ -4,7 +4,7 @@ $cmu-drc-teal: #4d8687;
 $cmu-drc-blue: #57b7ba;
 $cmu-drc-forest: #1e3f3e;
 
-$link-color: $cmu-drc-orange;
+$link-color: $cmu-drc-teal;
 
 $serif      : Zilla Slab Regular, Georgia, Times, serif;
 $sans-serif : Magdelin SemiBold, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -27,8 +27,3 @@ h6 {
   font-family: $sans-serif;
   text-transform: uppercase;
 }
-
-.page__footer {
-    background-image: url("/assets/pattern.jpg");
-}
-
