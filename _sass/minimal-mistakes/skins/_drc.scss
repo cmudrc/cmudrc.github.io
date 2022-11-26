@@ -121,9 +121,9 @@ $caption-font-family: $serif !default;
 // $xing-color: #006567 !default;
 
 /* links */
-// $link-color: mix(#000, $info-color, 20%) !default;
-// $link-color-hover: mix(#000, $link-color, 25%) !default;
-// $link-color-visited: mix(#fff, $link-color, 15%) !default;
+$link-color: $cmu-drc-blue !default;
+$link-color-hover: $cmu-drc-teal !default;
+$link-color-visited: $cmu-drc-forest !default;
 // $masthead-link-color: $primary-color !default;
 // $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 // $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
