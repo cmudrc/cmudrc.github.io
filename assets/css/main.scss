@@ -5,7 +5,6 @@ search: false
 
 @charset "utf-8";
 
-# DRC Colors
 $cmu-drc-orange: #df5127;
 $cmu-drc-gold: #ea8534;
 $cmu-drc-teal: #4d8687;
@@ -30,7 +29,7 @@ h6 {
 }
 
 .site-title {
-  font-family: $serif
+  font-family: $serif;
   text-transform: uppercase;
 }
 
