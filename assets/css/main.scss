@@ -7,8 +7,8 @@ search: false
 
 $cmu-drc-orange: #df5127;
 
-$serif      : Georgia, Times, serif;
-$sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$serif      : Magdelin Regular, Georgia, Times, serif;
+$sans-serif : Zilla Slab Regular, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
