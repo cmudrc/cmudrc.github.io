@@ -32,4 +32,4 @@ gallery:
 
 {% include gallery %}
 
-<script defer>let x = document.getElementsByTagName("gradio-app")[0]; x.wrapper.classList.remove("dark");<script>
+<script src="assets/javascript/fix-hf-gradio.js" defer><script>
