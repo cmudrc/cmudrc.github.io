@@ -31,5 +31,3 @@ gallery:
 <gradio-app src="https://cmudrc-demo-explorer.hf.space"></gradio-app>
 
 {% include gallery %}
-
-<script src="/assets/javascript/fix-hf-gradio.js" defer><script>
