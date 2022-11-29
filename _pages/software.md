@@ -22,4 +22,12 @@ gallery:
     title: "Show Me The Funding"
 ---
 
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.11.0/gradio.js"
+></script>
+
+<gradio-app src="https://cmudrc-demo-explorer.hf.space"></gradio-app>
+
 {% include gallery %}
