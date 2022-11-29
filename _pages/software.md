@@ -31,3 +31,6 @@ gallery:
 <gradio-app src="https://cmudrc-demo-explorer.hf.space"></gradio-app>
 
 {% include gallery %}
+
+<script>document.getElementsByTagName("gradio-app")[0].wrapper.classList.remove("dark")
+<script>
