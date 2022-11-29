@@ -32,4 +32,4 @@ gallery:
 
 {% include gallery %}
 
-<script src="assets/javascript/fix-hf-gradio.js" defer><script>
+<script src="/assets/javascript/fix-hf-gradio.js" defer><script>
