@@ -32,5 +32,4 @@ gallery:
 
 {% include gallery %}
 
-<script>document.getElementsByTagName("gradio-app")[0].wrapper.classList.remove("dark")
-<script>
+<script defer>let x = document.getElementsByTagName("gradio-app")[0]; x.wrapper.classList.remove("dark");<script>
