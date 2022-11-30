@@ -23,6 +23,7 @@ gallery:
 ---
 
 <iframe
+	id="mine"
 	src="https://cmudrc-demo-explorer.hf.space"
 	frameborder="0"
 	width="850"
