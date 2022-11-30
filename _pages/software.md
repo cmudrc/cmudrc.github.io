@@ -26,10 +26,11 @@ gallery:
 	src="https://cmudrc-demo-explorer.hf.space"
 	frameborder="0"
 	width="850"
-	height="450"
+	height="450" 
+	onload="fixit()"
 ></iframe>
 
 
 {% include gallery %}
 
-<script src="/assets/javascript/fix-hf-gradio.js" defer></script>
+<script src="/assets/javascript/fix-hf-gradio.js"></script>
