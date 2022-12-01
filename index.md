@@ -1,5 +1,4 @@
 ---
-
 layout: splash
 classes: wide
 permalink: /
@@ -31,7 +30,9 @@ research_areas:
     excerpt: "Characterising electrophysiological correlates of sleep, cognition and behavior."
     image_caption: "[Adi Golstein](https://unsplash.com/@adigold1) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1597765654525-5cb60d312ef6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
+ 
 ---
+
 {% include feature_row id="research_intro" type = "justify" %}
 {% include feature_row id="research_areas" %}
 {% include tweets.html %}
