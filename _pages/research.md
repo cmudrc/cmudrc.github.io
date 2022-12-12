@@ -23,6 +23,6 @@ header:
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO5pOSkt7jjlLU9JTWx6CTf4uDivunQpaFtoH-k7Vw0PncZRxPAUTbyuBBaBOyGOvqTcw&usqp=CAU" alt="drawing" width="100"/> <img src="https://kscste.kerala.gov.in/wp-content/uploads/2019/06/emblem.jpg" alt="drawing" width="100" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWr-lFGQbOGJ598HZ_n3rgqAUu5A3AAKBAvA&usqp=CAU" alt="drawing" width="100" /> <img src="https://i.imgur.com/VRLwdLI.png" alt="drawing" width="100" />
 
 #### **Research Management Committees:**
-<a href="/commitee/"> Institutional Biosafety Committee (IBSC) </a>
-<a href="/icscr/"> Institutional Committee for Stem Cell Research (IC-SCR) </a>
-<a href="/ihec/"> Institutional Human Ethics Committee (IHEC) </a>
+<a href="/commitee/"> Institutional Biosafety Committee (IBSC) </a> <br/>
+<a href="/icscr/"> Institutional Committee for Stem Cell Research (IC-SCR) </a> <br/>
+<a href="/ihec/"> Institutional Human Ethics Committee (IHEC) </a> <br/>
