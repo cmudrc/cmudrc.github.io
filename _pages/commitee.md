@@ -1,3 +1,9 @@
+---
+
+permalink: /commitee/
+
+---
+
 ### **Institutional Biosafety Committee (IBSC)**
 As mandated in the Rules 1989 of Environment (Protection) Act 1986, IMHANS has constituted an institutional biosafety committee (BT/IKBP/636/2022) as per the guidelines of the Department of Biotechnology (DBT), Government of India. IBSC facilitates the research involving recombinant-DNA (rDNA) materials, genetically modified organisms (GMOs), and living modified organisms (LMOs) and implements biosafety procedures to ensure safety to the users as well as to the environment.
 
