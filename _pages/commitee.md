@@ -42,3 +42,7 @@ As mandated in the Rules 1989 of Environment (Protection) Act 1986, IMHANS has c
 **Internal Members**
 * Dr Shabeesh Balan
 <br/> Scientist D, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
+
+### **Institutional Committee for Stem Cell Research (IC-SCR)**
+
+### **Institutional Human Ethics Committee (IHEC)**
