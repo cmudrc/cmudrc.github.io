@@ -1,7 +1,7 @@
 ---
 layout: splash
 classes: wide
-title: Research Area
+title: Research Management Committees
 permalink: /commitee/
 header:
   overlay_color: "#000"
@@ -42,5 +42,3 @@ As mandated in the Rules 1989 of Environment (Protection) Act 1986, IMHANS has c
 **Internal Members**
 * Dr Shabeesh Balan
 <br/> Scientist D, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode, Kerala
-
-###### tags: `IMHANS` `IBSC`
