@@ -20,7 +20,7 @@
   year: 2023
   email: "srismill@andrew.cmu.edu"
   alum: false
-  headshot: "https://media-exp1.licdn.com/dms/image/C5103AQGKHtaIS214RQ/profile-displayphoto-shrink_400_400/0/1517566488045?e=1669852800&v=beta&t=il_xmWnxbu2VBvs4-WEfT8F7eh6L031TPuyWT-7iDFM"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/rismiller.jpeg"
   
 - first: Noriana
   last: Radwan
@@ -28,14 +28,14 @@
   year: 2022
   alum: false
   email: "nradwan@psu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C4D03AQE8XOJRE1P9YQ/profile-displayphoto-shrink_400_400/0/1642115205910?e=1669852800&v=beta&t=Gao5Bg-25DTBzY5h1qn2pnkfksrnJVn8Ejb1UeKCWZ4"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/radwan.jpeg"
   
 - first: Akash
   last: Agrawal
   year: 2024
   role: Ph.D. Student
   email: "aragrawa@andrew.cmu.edu"
-  headshot: "https://media-exp1.licdn.com/dms/image/C5603AQHOZY9XMq1Pvw/profile-displayphoto-shrink_400_400/0/1626885654043?e=1669852800&v=beta&t=9WUv2GApwW60jTjTPMAu4SKR0oG99sddww8tlIH_Y7A"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agrawal.jpeg"
   alum: false
   
 - first: Francisco
