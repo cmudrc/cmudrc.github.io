@@ -59,7 +59,7 @@
   year: 1000000
   role: MPhil Student (dissertation)
   email: ""
-  headshot: "/assets/headshots/kartika.jpeg"
+  headshot: "/assets/headshots/kartika.jpg"
   alum: false
   
 - first: Sreelakshmi
@@ -67,7 +67,7 @@
   year: 1000000
   role: MPhil Student (dissertation)
   email: ""
-  headshot: "/assets/headshots/sreelakshmi.jpeg"
+  headshot: "/assets/headshots/sreelakshmi.jpg"
   alum: false
   
 - first: Midhun
