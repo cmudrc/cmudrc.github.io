@@ -11,9 +11,9 @@
     <div class="archive__item" style="padding-left: 12.5%; padding-right: 12.5%;">
       <div class="archive__item-teaser" >
         {% if member.headshot %}
-          <img src="{{ member.headshot | relative_url }}">
+          <img src="{{ member.headshot | relative_url }}" class="member-image">
         {% else %}
-          <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
+          <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png" class="member-image">
         {% endif %}  
       </div>
 
