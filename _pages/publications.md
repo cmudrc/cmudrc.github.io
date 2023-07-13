@@ -17,10 +17,9 @@ header:
 * **Balan, S.**, Iwayama, Y., Ohnishi, T., Fukuda, M., Shirai, A., Yamada, A., Weirich, S., Schuhmacher, M. S., Vijayan, D. K., Endo, T., Hisano, Y., Kotoshiba, K., Toyota, T., Otowa, T., Kuwabara, H., Tochigi, M., Watanabe, A., Ohba, Maekawa, M., Toyoshima, M., Sasaki, T., Nakamura, K., Tsujii, M., Matsuzaki, H., Zhang, K. Y. J., Jeltsch, A., Shinkai, Y., & Yoshikawa, T (2021), [A loss of function variant in SUV39H2 identified in autism spectrum disorder causes altered H3K9-trimethylation and dysregulation of protocadherin β cluster genes in the developing brain](https://doi.org/10.1038/s41380-021-01199-7), ***Molecular Psychiatry***, 10.1038/s41380-021-01199-7 
 * Hara, T., Toyoshima, M., Hisano, Y., **Balan, S.**, Iwayama, Y., Aono, H., Futamura, Y., Osada, H., Owada, Y., & Yoshikawa, T. (2021), [Glyoxalase I disruption and external carbonyl stress impair mitochondrial function in human induced pluripotent stem cells and derived neurons](https://doi.org/10.1038/s41398-021-01392-w), ***Translational Psychiatry***, 11, 275
 * **Balan, S.**, Ohnishi, T., Watanabe, A., Ohba, H., Iwayama, Y., Toyoshima, M., Hara, T., Hisano, Y., Miyasaka, Y., Toyota, T., Shimamoto-Mitsuyama, C., Maekawa, M., Numata, S., Ohmori, T., Shimogori, T., Kikkawa, Y., Hayashi, T. & Yoshikawa, T. (2021) [Role of an atypical cadherin gene, Cdh23 in prepulse inhibition and implication of CDH23 in schizophrenia](https://doi.org/10.1093/schbul/sbab007), ***Schizophrenia Bulletin***, 47; 4, 1190–1200.
-<!--
-{% assign journal_list = site.publications.journals | join: ";" %}
-{% include scholar/_includes/publications venue=journal_list link=true %}
---> 
+
+<!-- {% assign journal_list = site.publications.journals | join: ";" %} -->
+<!-- {% include scholar/_includes/publications venue=journal_list link=true %} --> 
 ## News
 <marquee direction = "left"><a href="https://imhansseminarseries.github.io/"> IMHANS Seminar Series in Psychiatry and Behavioral Neuroscience 2022 </a> </marquee>
 
