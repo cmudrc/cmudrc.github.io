@@ -88,7 +88,21 @@
    
 - first: Devangana
   last: Rajan
-  role: B.Sc. Neuroscience (University of Glasgow) 
+  role:  
   year: 2022
-  degree: Undegraduate Research Intern
+  degree: Undergraduate Research Intern (B.Sc. Neuroscience; University of Glasgow)
+  alum: true
+
+- first: Hafneeda
+  last: Hashim
+  role: 
+  year: 2022
+  degree: Dissertation student (M.Sc. Biotechnology; Kannur University) 
+  alum: true
+
+- first: Hamdhaan
+  last: Anees
+  role:  
+  year: 2022
+  degree: Undergraduate Research (B.Sc. Biosciences; Bangalore University)
   alum: true
