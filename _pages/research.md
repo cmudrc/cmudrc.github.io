@@ -10,6 +10,8 @@ header:
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
 
+<img style="float: right;" src="/assets/CIBS.jpg" alt="drawing" width="900"> 
+
 #### **Research Projects:** 
 
 | Investigators | Project | Cost | Funding agency |
