@@ -20,7 +20,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: "/assets/headshots/rajith.jpeg"
+  headshot: "/assets/headshots/rajith.jpg"
   
 - first: Mubashira 
   last: V
@@ -36,7 +36,7 @@
   year: 1000000
   email: ""
   alum: false
-  headshot: "/assets/headshots/anu.jpeg"
+  headshot: "/assets/headshots/anu.jpg"
   
 - first: Ranjitha
   last: M
@@ -76,7 +76,7 @@
   year: 2022
   alum: false
   email: ""
-  headshot: "/assets/headshots/MIdhun.jpeg"
+  headshot: "/assets/headshots/MIdhun.jpg"
   
 - first: Nishanth
   last: JH
@@ -84,7 +84,7 @@
   year: 1000000
   alum: false
   email: ""
-  headshot: "/assets/headshots/nishanth.jpeg"
+  headshot: "/assets/headshots/nishanth.jpg"
    
 - first: Devangana
   last: Rajan
