@@ -24,7 +24,7 @@
   
 - first: Mubashira 
   last: V
-  role: Junior Research Fellow <br> (Molecular Psychiatry)
+  role: Junior Research Fellow (DHR Project) <br> (Molecular Psychiatry)
   year: 1000000
   email: ""
   alum: false
@@ -32,11 +32,28 @@
   
 - first: Anusree 
   last: A Kumar
-  role: Project Fellow <br> (Molecular Psychiatry)
+  role: Project Fellow (KSCSTE Project) <br> (Molecular Psychiatry)
   year: 1000000
   email: ""
   alum: false
   headshot: "/assets/headshots/anu.jpg"
+
+- first: First Name 
+  last: Last Name
+  role: Junior Research Fellow (SERB-Project) <br> (Molecular Psychiatry)
+  year: 1000000
+  email: ""
+  alum: false
+  headshot: "/assets/headshots/aa.jpeg"
+  
+- first: First Name 
+  last: Last Name
+  role: Junior Research Fellow (SERB-Project) <br> (Molecular Psychiatry)
+  year: 1000000
+  email: ""
+  alum: false
+  headshot: "/assets/headshots/aas.jpeg"
+  
   
 - first: Ranjitha
   last: M
