@@ -13,5 +13,5 @@ header:
 ### Join Us <br/> 
 We are accepting applications for researchers (Postdoctoral researchers and junior research fellows) in our group. Interested applicants are encouraged to inquire via e-mail (researchlab.imhans@gmail.com). Post-doctoral candidates applying for external funding who would like to be hosted by the lab are welcome to contact. People interested in post-doctoral positions should have a strong interest in Biological Psychiatry. 
 
-### [New openings](https://imhans.ac.in/2022/12/08/notification/) <br/>
-<img style="float: left;" src="/assets/software/KSCSTE_notification_project_fellow.jpg" alt="drawing" width="300"/> <br/>
+### [Openings: archived](https://imhans.ac.in/2022/12/08/notification/) <br/>
+<img style="float: left;" src="/assets/software/KSCSTE_notification_project_fellow.jpg" alt="drawing" width="300"/> <img style="float: left;" src="/assets/software/serb.JPG" alt="drawing" width="314"/> <br/>
