@@ -14,6 +14,8 @@ header:
 
 ### Collaborators
 * Dr Anish PK, Department of Psychiatry, Institute of Mental Health and Neuroscience
+* Dr Midhun S, Department of Psychiatry, Government Medical College Calicut, Kerala
+* Dr Nishanth JH, Department of Psychiatry, Government Medical College Calicut, Kerala
 * Dr Varsha Vidyadharan, Department of Psychiatry, Government Medical College Calicut, Kerala
 * Dr Divya MS, Department of Pathology, Sree Chitra Tirunal Institute for Medical Sciences and Technology, Kerala
 * Dr Dileep KV, Laboratory for Computational and Structural Biology, Jubilee Mission Medical College Hospital and Research Institute, Kerala
