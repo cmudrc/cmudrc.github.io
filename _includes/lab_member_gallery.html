@@ -1,34 +1,31 @@
 {% assign counter = 0 %}
 
 {% for member in site.data.members %}
-  {% if member.alum == false %}
-    {% assign counter = counter | plus: 1 %}
-    {% assign mod = counter | modulo: 3 %}
-  
-    {% if mod == 1 %}
-    <div class="feature__wrapper">
-    {% endif %}
-      
-    <div class="feature__item">
-      <div class="archive__item" style="padding-left: 12.5%; padding-right: 12.5%;">
-        <div class="archive__item-teaser" >
-          {% if member.headshot %}
-            <img src="{{ member.headshot | relative_url }}">
-          {% else %}
-            <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
-          {% endif %}  
-        </div>
-  
-        <div class="archive__item-body">
-        <h3 class="archive__item-title" style="text-align: center">{{member.first}} {{member.last}}</h3>
-        <p style="text-align: center">{{ member.role }}{% if member.email %}<br/> <a href="{{ member.email }}">{{ member.email }}</a> {% endif %}</p>
-        </div> 
+{% if member.alum == false %}
+{% assign counter = counter | plus: 1 %}
+{% assign mod = counter | modulo: 3 %}
+{% if mod == 1 %}
+<div class="feature__wrapper">
+{% endif %}
+  <div class="feature__item">
+    <div class="archive__item" style="padding-left: 12.5%; padding-right: 12.5%;">
+      <div class="archive__item-teaser" >
+        {% if member.headshot %}
+          <img src="{{ member.headshot | relative_url }}">
+        {% else %}
+          <img src="https://www.cmu.edu/brand/brand-guidelines/images/scottycolors-whiteonred-600x600.png">
+        {% endif %}  
       </div>
-    </div>
-      
-    {% if mod == 0 %}
-    </div>
-    {% endif %}
 
-  {% endif %}
+      <div class="archive__item-body">
+      <h3 class="archive__item-title" style="text-align: center">{{member.first}} {{member.last}}</h3>
+      <p style="text-align: center">{{ member.role }}{% if member.email %}<br/> <a href="{{ member.email }}">{{ member.email }}</a> {% endif %}</p>
+      </div> 
+    </div>
+  </div>
+{% if mod == 0 %}
+</div>
+{% endif %}
+{% endif %}
 {% endfor %}
+</div>
