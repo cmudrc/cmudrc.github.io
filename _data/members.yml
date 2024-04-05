@@ -46,7 +46,7 @@
   role: Ph.D. Student
   alum: false
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/noorghasemi.jpeg"
-  email: ""
+  email: "aslann@cmu.edu"
   
 - first: Zeda
   last: Xu
@@ -75,6 +75,27 @@
   alum: false
   email: "vasvia@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agarwal.jpeg"
+
+- first: Melinda
+  last: Mudzurandende
+  role: M.S. Student
+  alum: false
+  email: "mmudzura@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/mudzurandende.jpeg"
+
+- first: Doreen
+  last: Valmyr
+  role: Undergrad
+  alum: false
+  email: "dvalmyr@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/valmyr.jpeg"
+
+- first: Maxime
+  last: Mermillod-Blondin
+  role: Undergrad
+  alum: false
+  email: "mmermill@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/blondin.jpeg"
 
 - first: Samuel
   last: Lapp
