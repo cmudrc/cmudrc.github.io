@@ -10,7 +10,8 @@ header:
   caption: "[**Evy Prentice**](https://unsplash.com/@evy_prentice) on [*Unsplash*](https://unsplash.com)"
 ---
 ## Selected Publications
-* **Rajith, K.R.**, Rajesh, T.V., **Shibila, A.**, Neetha, B., Prasad, T.V., Sajin, A.V., Arun, K.A., Suja, M., **Krishnakumar, P.**, and **Balan, S.** (2024). [Sequential Presentation of Obsessive-Compulsive Disorder and Narcolepsy in a Ten-Year-Old Girl with Wolfram Syndrome 1.]() *The Journal of Nervous and Mental Disease*. (Accepted)
+
+* <font size = "4"> **Rajith, K.R.**, Rajesh, T.V., **Shibila, A.**, Neetha, B., Prasad, T.V., Sajin, A.V., Arun, K.A., Suja, M., **Krishnakumar, P.**, and **Balan, S.** (2024). [Sequential Presentation of Obsessive-Compulsive Disorder and Narcolepsy in a Ten-Year-Old Girl with Wolfram Syndrome 1.]() *The Journal of Nervous and Mental Disease*. (Accepted) </font>
 * **Rajith, R.K.**, Suja, M., and **Krishnakumar, P.** (2024). [Obsessive-compulsive disorder in a very young child.]() *Industrial Psychiatry Journal.* (Accepted)
 * Balaram, N.* , Jose, J., Gafoor, A., Balachandran, S., Saritha, F., Dileep, K.V. & **Balan, S***. (2023) [Acetazolamide responsive early-onset absence epilepsy and ataxia in a toddler with a KCNA2 genetic variant; a case report.](https://doi.org/10.1016/j.seizure.2023.06.013) *Seizure: European Journal of Epilepsy*; 10.1016/j.seizure.2023.06.013
 * Jyrwa, S., Shibukumar, T., Thavody, J., Anish, P., Bina, T., **Rajith, K.,** Banandur, P.S., Rao, G.N., Gururaj, G., and Varghese, M. (2023). [Mental health morbidities in Kerala, India: Insights from National Mental Health Survey, 2015–2016.]( https://doi.org/10.4103%2Findianjpsychiatry.indianjpsychiatry_842_23) *Indian Journal of Psychiatry* 65, 1289-1296.
