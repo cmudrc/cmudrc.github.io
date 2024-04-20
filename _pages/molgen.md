@@ -22,12 +22,15 @@ We would like to seek your assistance in **referring cases of drug-resistant OCD
     - Despite the trial of the maximum recommended or tolerated dose of two selective-serotonin receptor inhibitors (SSRI) for at least 10 weeks as first-line treatment AND 
     - Subsequently received an augmentation of clomipramine, a non-selective serotonin receptor inhibitor (SRI), and antipsychotics.
 - Age > 18 years
+  
 ## Drug-responsive OCD (n = 20):
   - The primary diagnosis should be OCD.
   - The drug-responsiveness is defined as individuals with OCD who could achieve symptom remission with the monotherapy of selective-serotonin receptor inhibitor (SSRI)
   - Age > 18 years
+
 ## Exclusion criteria:
   - Seizures, heart arrhythmia, and serotonergic syndrome resulting from combinatorial SSRI and SRI treatment
   - Individuals with psychiatric disorders resulting from organic causes, substance abuse, intellectual disability, head injury, neurological, and neurodevelopmental disorders will be excluded.
-  - Since we are interested in pharmacoresistance, here we are not including the individuals undergoing/undergoing CBT alone with/without response. 
+  - Since we are interested in pharmacoresistance, here we are not including the individuals undergoing/undergoing CBT alone with/without response.
+
 ###### tags: `IMHANS` `OCD` `DNA Methylation` `Drug resistance` `collaboration`
