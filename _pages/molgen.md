@@ -11,6 +11,7 @@ header:
 ---
 
 # **Research program on the Pharmaco-epigenomics of Obsessive Compulsive Disorder (OCD)** 
+<img style="float: right;" src="/assets/ssss.png" alt="drawing" width="800"> 
 
 ###### tags: `IMHANS` `OCD` `DNA Methylation` `Drug resistance` `collaboration`
 Greetings! The Neuroscience Research Laboratory at the **Centre for Interdisciplinary Brain Sciences (CIBS)**, Institute of Mental Health and Neurosciences (IMHANS), Kozhikode is undertaking a Department of Science & Technology (DST) -Science and Engineering Research Board (SERB), (Government of India) funded research program on the **Pharmacoepigenomics of Obsessive Compulsive Disorder (OCD)**. We employ high-throughput genomic approaches to understand epigenetic markers that may contribute to drug resistance in OCD. <br/>
