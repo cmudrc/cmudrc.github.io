@@ -97,6 +97,20 @@
   email: "dvalmyr@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/valmyr.jpeg"
 
+- first: Maxime
+  last: Mermillod-Blondin
+  role: Undergrad
+  alum: false
+  email: "mmermill@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/blondin.jpeg"
+
+- first: Kai
+  last: Herchenroether
+  role: Undergrad
+  alum: false
+  email: "kherchen@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/herchenroether.jpg"
+
 - first: Samuel
   last: Lapp
   role: PhD Student @ University of Pittsburgh
