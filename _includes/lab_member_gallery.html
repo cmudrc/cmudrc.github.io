@@ -23,8 +23,10 @@
       </div> 
     </div>
   </div>
-{% if mod == 0 %}
-</div x>
+{% if forloop.last %}
+</div>
+{% elsif mod == 0 %}
+</div>
 {% endif %}
 {% endif %}
 {% endfor %}
