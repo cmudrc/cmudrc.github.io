@@ -90,6 +90,13 @@
   email: "mmudzura@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/mudzurandende.jpeg"
 
+- first: Giovanni
+  last: Natasha
+  role: M.S. Student
+  alum: false
+  email: "gnatasha@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/giovanni.jpg"
+
 - first: Doreen
   last: Valmyr
   role: Undergrad
