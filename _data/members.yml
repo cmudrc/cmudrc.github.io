@@ -125,6 +125,13 @@
   email: "kherchen@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/herchenroether.jpg"
 
+- first: Raquel
+  last: Cosme
+  role: Undergrad
+  alum: false
+  email: "rcosme@andrew.cmu.edu"
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/cosme.jpg"
+
 - first: Samuel
   last: Lapp
   role: PhD Student @ University of Pittsburgh
