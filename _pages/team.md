@@ -25,11 +25,11 @@ header:
 ## Alumni
 
 ### Research Fellows
-* Mubashira V, Junior Research Fellow (DHR Project)
+* Mubashira V, Junior Research Fellow (DHR Project; 2022-2024)
 
 ### Clinical Fellows
-* Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS)
-* Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS)
+* Sreelakshmi V P, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
+* Kartika Jayaprakash, Dissertation Student (MPhil Clinical Psychology, IMHANS; 2022-2024)
 
 ### Interns
 * Devangana Rajan, Undergraduate Research Intern (B.Sc. Neuroscience; University of Glasgow, 2022)
