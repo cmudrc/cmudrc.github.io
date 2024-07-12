@@ -3,11 +3,11 @@ main:
     url: /
   - title: "Research"
     url: /research/
-  - title: "Academic"
-    url: /academic/
   - title: "Team"
     url: /team/
   - title: "Publications"
     url: /publications/
+  - title: "Academic"
+    url: /academic/
   - title: "Contact"
     url: /contact/
