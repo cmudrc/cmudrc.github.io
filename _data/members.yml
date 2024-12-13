@@ -15,7 +15,7 @@
   
 - first: Akash
   last: Agrawal
-  role: Ph.D. Student
+  role: Postdoc Researcher
   email: "aragrawa@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agrawal.jpeg"
   alum: false
@@ -62,33 +62,12 @@
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/ezemba.jpeg"
   email: "jezemba@andrew.cmu.edu"
   
-- first: Gabrial
-  last: Ashungafac
-  role: Research Associate
-  alum: false
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/zencha.jpeg"
-  email: "gzenchaa@andrew.cmu.edu"
-
-- first: Yash
-  last: Patawari
-  role: M.S. Student
-  alum: false
-  email: "ypatawar@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/patawari.jpeg"
-
 - first: Vasvi
   last: Agarwal
   role: M.S. Student
   alum: false
   email: "vasvia@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agarwal.jpeg"
-
-- first: Melinda
-  last: Mudzurandende
-  role: M.S. Student
-  alum: false
-  email: "mmudzura@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/mudzurandende.jpeg"
 
 - first: Giovanni
   last: Natasha
@@ -110,34 +89,13 @@
   alum: false
   email: "leyiz@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/dzhang.jpeg"
-
-- first: Doreen
-  last: Valmyr
-  role: Undergrad
-  alum: false
-  email: "dvalmyr@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/valmyr.jpeg"
-
-- first: Maxime
-  last: Mermillod-Blondin
-  role: Undergrad
-  alum: false
-  email: "mmermill@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/blondin.jpeg"
-
+  
 - first: Kai
   last: Herchenroether
   role: Undergrad
   alum: false
   email: "kherchen@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/herchenroether.jpg"
-
-- first: Raquel
-  last: Cosme
-  role: Undergrad
-  alum: false
-  email: "rcosme@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/cosme.jpg"
 
 - first: Samuel
   last: Lapp
@@ -271,13 +229,6 @@
   year: 2022
   degree: PhD
   alum: true
-  
-- first: Venkata
-  last: Bandaru
-  role: Technology Data Integration Analyst @ Deutsche Bank
-  year: 2022
-  degree: BS
-  alum: true
 
 - first: Sierra
   last: Hicks
@@ -355,3 +306,23 @@
   alum: true
   year: 2023
 
+- first: Doreen
+  last: Valmyr
+  degree: BS
+  role: Software Engineer @ Meta
+  alum: true
+  year: 2024
+  
+- first: Maxime
+  last: Mermillod-Blondin
+  degree: BS
+  role: MS Student at ETH-Z
+  alum: true
+  year: 2024
+
+- first: Yash
+  last: Patawari
+  degree: MS
+  alum: true
+  role: AI Engineer @ Chima
+  year: 2024
