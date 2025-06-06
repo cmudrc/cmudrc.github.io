@@ -6,20 +6,6 @@
   email: "ccm@cmu.edu"
   alum: false
 
-- first: Jiangce
-  last: Chen
-  role: Postdoc Researcher
-  alum: false
-  email: "jiangcec@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/chen.jpeg"
-  
-- first: Akash
-  last: Agrawal
-  role: Postdoc Researcher
-  email: "aragrawa@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agrawal.jpeg"
-  alum: false
-  
 - first: Martha
   last: Baldwin
   role: Ph.D. Student
@@ -61,6 +47,13 @@
   alum: false
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/ezemba.jpeg"
   email: "jezemba@andrew.cmu.edu"
+
+- first: Chan-Eui
+  last: Song
+  role: Ph.D. Student
+  alum: false
+  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/ezemba.jpeg"
+  email: "chaneuis@andrew.cmu.edu"
   
 - first: Vasvi
   last: Agarwal
@@ -272,7 +265,6 @@
   
 - first: Sean
   last: Rismiller
-  role: Ph.D. Student
   degree: PhD
   alum: true
   role: TBD
@@ -326,3 +318,17 @@
   alum: true
   role: AI Engineer @ Chima
   year: 2024
+
+- first: Jiangce
+  last: Chen
+  degree: Postdoc
+  year: 2025
+  alum: true
+  role: Research Scientist @ NYU
+
+- first: Akash
+  last: Agrawal
+  degree: PhD
+  year: 2024
+  alum: true
+  role: Research Engineer II @ ANSYS
