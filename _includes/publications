@@ -146,7 +146,11 @@
     {% endif %}
     
     {% if include_link==true %}
-      {% assign url = citation.Title | cgi_escape | prepend: "https://scholar.google.com/scholar?q=" %}
+      {% if citation.DOI and citation.DOI != "" %}
+        {% assign url = citation.DOI %}
+      {% else %}
+        {% assign url = citation.Title | cgi_escape | prepend: "https://scholar.google.com/scholar?q=" %}
+      {% endif %}
       {% capture title_link %}<a href="{{ url }}">{{citation.Title}}</a>{% endcapture %}
     {% else %}
       {% assign title_link = citation.Title %}
