@@ -3,15 +3,17 @@ layout: splash
 classes: wide
 permalink: /
 header:
+  og_image: "/assets/social-card.png"
+  og_image_alt: "Carnegie Mellon University Design Research Collective"
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
   overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
-      url: "https://cmudrc.github.io/team/"
+      url: "/team/"
     - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
-      url: "https://cmudrc.github.io/publications/"
+      url: "/publications/"
   caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
 research_intro:
   - title: Research Areas
@@ -39,11 +41,11 @@ application_areas:
     image_caption: "[**Tom Claes**](https://unsplash.com/@tomspentys) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1512772452758-275f069da6bf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1770&q=80"
     title: "Marine Renewable Energy"
-    excerpt: "As climate changes continues to impact our world, we design new ways to generate electricity from the power of the ocean."
+    excerpt: "As climate change continues to impact our world, we design new ways to generate electricity from the power of the ocean."
     image_caption: "[**Matt Power**](https://unsplash.com/@thisispower) on [*Unsplash*](https://unsplash.com)"
   - image_path: "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1769&q=80"
     title: "Unmanned Aerial Vehicles"
-    excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver good and services to the people who need them most."
+    excerpt: "Using unmanned aerial vehicles, or drones, we search for new opportunities to deliver goods and services to the people who need them most."
     image_caption: "[**Alession Soggetti**](https://unsplash.com/@asoggetti) on [*Unsplash*](https://unsplash.com)"
 
 ---

@@ -5,15 +5,15 @@ minimal_mistakes_skin    : "drc" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "The Design Research Collective"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : # "Your Name"
-description              : # "An amazing website."
-url                      : # "https://mccomblab.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+subtitle                 : "Human-centered AI and computational engineering design at Carnegie Mellon University"
+name                     : "The Design Research Collective"
+description              : "The Design Research Collective at Carnegie Mellon University studies human–AI collaboration, computational engineering, and advanced manufacturing."
+url                      : "https://cmudrc.github.io"
+baseurl                  : ""
 repository               : "cmudrc/cmudrc.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/DRC-Horizontal-Full.jpg"
-masthead_title           : " "# overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/DRC-Horizontal-Full.webp"
+masthead_title           : "The Design Research Collective"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -70,13 +70,18 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/social-card.png"
+og_image_alt             : "Carnegie Mellon University Design Research Collective"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Organization"
+  name                   : "The Design Research Collective"
+  links:
+    - "https://github.com/cmudrc"
+    - "https://huggingface.co/cmudrc"
+    - "https://www.linkedin.com/company/design-research-collective"
+    - "https://twitter.com/cmudrc"
 
 # Analytics
 analytics:
@@ -88,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris McComb"
+  name             : "The Design Research Collective"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "We study and build systems that help people and AI design complex engineered products, teams, and organizations."
+  location         : "Carnegie Mellon University, Pittsburgh, Pennsylvania"
+  email            : "ask-drc@andrew.cmu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -128,6 +133,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/cmudrc/
+    - label: "Hugging Face"
+      icon: "fas fa-fw fa-database"
+      url: https://huggingface.co/cmudrc
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/company/design-research-collective
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -204,7 +215,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 
 # Plugins (previously gems:)
@@ -307,5 +318,8 @@ publications:
     - "Environmental Research Letters"
     - "Geographies"
     - "Software Impacts"
+    - "Computers Environment and Urban Systems"
+    - "Computers & Fluids"
+    - "Frontiers in Aerospace Engineering"
 atom_feed:
   hide: true

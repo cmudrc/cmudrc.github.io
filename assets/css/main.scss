@@ -35,3 +35,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// The logo already contains the full lab name. Keep a real masthead title in
+// site metadata for accessibility, but do not render a duplicate visual label.
+.site-title {
+  display: none !important;
+}

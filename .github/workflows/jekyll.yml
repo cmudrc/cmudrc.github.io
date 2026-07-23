@@ -11,6 +11,10 @@ on:
   push:
     branches: ["main"]
 
+  # Rebuilds annually so generated dates, including the footer year, stay current.
+  schedule:
+    - cron: "17 6 1 1 *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
