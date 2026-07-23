@@ -77,12 +77,6 @@
   # Source: https://www.architecture.cmu.edu/profiles/cassie-li
   headshot: "/assets/headshots/cassie-li.jpg"
 
-- first: Leyi (Dora)
-  last: Zhang
-  role: M.S. Student
-  alum: false
-  email: "leyiz@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/dzhang.jpeg"
 - first: Samuel
   last: Lapp
   role: PhD Student @ University of Pittsburgh
@@ -340,6 +334,13 @@
   year: 2024
   alum: true
   role: Analyst @ Accenture
+
+- first: Leyi (Dora)
+  last: Zhang
+  degree: MS
+  year: 2024
+  alum: true
+  role: Product Designer @ WinWin Labs
 
 - first: Vasvi
   last: Agarwal
