@@ -6,13 +6,6 @@
   email: "ccm@cmu.edu"
   alum: false
 
-- first: Martha
-  last: Baldwin
-  role: Ph.D. Student
-  alum: false
-  email: "mebaldwi@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/Baldwin.jpg"
-  
 - first: Scotty
   last: McGee
   role: Ph.D. Student
@@ -54,27 +47,27 @@
   alum: false
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/song.jpg"
   email: "chaneuis@andrew.cmu.edu"
-  
-- first: Vasvi
-  last: Agarwal
-  role: M.S. Student
-  alum: false
-  email: "vasvia@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/agarwal.jpeg"
 
-- first: Giovanni
-  last: Natasha
-  role: M.S. Student
+- first: George
+  last: Tang
+  role: Ph.D. Student
   alum: false
-  email: "gnatasha@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/giovanni.jpg"
 
-- first: Yimika
-  last: Osunsanya
+- first: Mayank
+  last: Dixit
   role: M.S. Student
   alum: false
-  email: "oosunsan@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/osunsanya.jpg"
+
+- first: Mary Manru
+  last: Zhang
+  role: M.S. Student
+  alum: false
+
+- first: Cassie
+  last: Li
+  role: M.S. Student
+  alum: false
+  email: "cassieli@andrew.cmu.edu"
 
 - first: Leyi (Dora)
   last: Zhang
@@ -82,14 +75,6 @@
   alum: false
   email: "leyiz@andrew.cmu.edu"
   headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/dzhang.jpeg"
-  
-- first: Kai
-  last: Herchenroether
-  role: Undergrad
-  alum: false
-  email: "kherchen@andrew.cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/herchenroether.jpg"
-
 - first: Samuel
   last: Lapp
   role: PhD Student @ University of Pittsburgh
@@ -262,6 +247,7 @@
   role: Robotics Engineer @ Axalta Coating Systems
   year: 2021
   degree: MS
+  alum: true
   
 - first: Sean
   last: Rismiller
@@ -332,3 +318,36 @@
   year: 2024
   alum: true
   role: Research Engineer II @ ANSYS
+
+- first: Yimika
+  last: Osunsanya
+  degree: MS
+  year: 2024
+  alum: true
+  role: Product Designer @ Lenovo
+
+- first: Giovanni
+  last: Natasha
+  degree: MS
+  year: 2024
+  alum: true
+  role: Analyst @ Accenture
+
+- first: Vasvi
+  last: Agarwal
+  degree: MS
+  year: 2025
+  alum: true
+  role: Applied Scientist @ Microsoft
+
+- first: Martha
+  last: Baldwin
+  degree: PhD
+  year: 2026
+  alum: true
+
+- first: Kai
+  last: Herchenroether
+  degree: BS
+  year: 2026
+  alum: true
