@@ -52,22 +52,30 @@
   last: Tang
   role: Ph.D. Student
   alum: false
+  # Source: https://aero.umd.edu/undergraduates/aeros-scholars
+  headshot: "/assets/headshots/george-tang.jpg"
 
 - first: Mayank
   last: Dixit
   role: M.S. Student
   alum: false
+  # Source: https://engineering.cmu.edu/estp/directory/index.html
+  headshot: "/assets/headshots/mayank-dixit.jpg"
 
 - first: Mary Manru
   last: Zhang
   role: M.S. Student
   alum: false
+  # Source: https://www.scifilab.org/people
+  headshot: "/assets/headshots/mary-manru-zhang.jpg"
 
 - first: Cassie
   last: Li
   role: M.S. Student
   alum: false
   email: "cassieli@andrew.cmu.edu"
+  # Source: https://www.architecture.cmu.edu/profiles/cassie-li
+  headshot: "/assets/headshots/cassie-li.jpg"
 
 - first: Leyi (Dora)
   last: Zhang
