@@ -355,11 +355,13 @@
   degree: PhD
   year: 2026
   alum: true
+  role: Computational Geometry Senior Software Engineer @ Re:Build Manufacturing
 
 - first: Scotty
   last: McGee
+  degree: PhD
+  year: 2026
   alum: true
-  role: Ph.D. Candidate @ CMU
 
 - first: Kai
   last: Herchenroether
