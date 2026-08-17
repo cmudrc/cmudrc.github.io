@@ -6,13 +6,6 @@
   email: "ccm@cmu.edu"
   alum: false
 
-- first: Scotty
-  last: McGee
-  role: Ph.D. Student
-  alum: false
-  email: "scotty@cmu.edu"
-  headshot: "https://raw.githubusercontent.com/cmudrc/cmudrc.github.io/main/assets/headshots/mcgee.jpeg"
-  
 - first: Wenzhuo
   last: Xu
   role: Ph.D. Student
@@ -54,6 +47,14 @@
   alum: false
   # Source: https://aero.umd.edu/undergraduates/aeros-scholars
   headshot: "/assets/headshots/george-tang.jpg"
+
+- first: Junlin
+  last: Zhou
+  role: Ph.D. Student
+  alum: false
+  # Profile: https://www.linkedin.com/in/junlin-zhou-b1596a293
+  # Headshot source: https://www.cmu.edu/cit/veg/people/current-photos/jzhou.jpg
+  headshot: "/assets/headshots/junlin-zhou.jpg"
 
 - first: Mayank
   last: Dixit
@@ -354,6 +355,11 @@
   degree: PhD
   year: 2026
   alum: true
+
+- first: Scotty
+  last: McGee
+  alum: true
+  role: Ph.D. Candidate @ CMU
 
 - first: Kai
   last: Herchenroether
