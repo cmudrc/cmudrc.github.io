@@ -78,6 +78,7 @@
   # Source: https://aero.umd.edu/undergraduates/aeros-scholars
   headshot: "/assets/headshots/george-tang.jpg"
   linkedin: "https://www.linkedin.com/in/george-tang-85024a19b"
+  email: "georgeta@andrew.cmu.edu"
   keywords:
     - Aerospace systems
     - Computational mechanics
@@ -91,6 +92,7 @@
   # Headshot source: https://www.cmu.edu/cit/veg/people/current-photos/jzhou.jpg
   headshot: "/assets/headshots/junlin-zhou.jpg"
   linkedin: "https://www.linkedin.com/in/junlin-zhou-b1596a293"
+  email: "junlinz@andrew.cmu.edu"
   keywords:
     - EV charging
     - Energy systems
@@ -103,6 +105,7 @@
   # Source: https://engineering.cmu.edu/estp/directory/index.html
   headshot: "/assets/headshots/mayank-dixit.jpg"
   linkedin: "https://www.linkedin.com/in/mayank-dixit-max007"
+  email: "mayankd@cmu.edu"
   keywords:
     - Aircraft analysis
     - Agentic engineering
@@ -115,6 +118,7 @@
   # Source: https://www.scifilab.org/people
   headshot: "/assets/headshots/mary-manru-zhang.jpg"
   linkedin: "https://www.linkedin.com/in/mary-manru-zhang-88221b154"
+  email: "maryzhang@cmu.edu"
   keywords:
     - Bio-inspired design
     - Generative design
