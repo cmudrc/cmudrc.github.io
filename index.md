@@ -9,10 +9,10 @@ header:
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "/team/"
-    - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
-      url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "/publications/"
+    - label: "<i class=\"fas fa-user-plus\"></i>   Join Our Team"
+      url: "/join/"
 research_intro:
   - title: Research Areas
   - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'
