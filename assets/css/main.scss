@@ -201,20 +201,6 @@ search: false
   --card-wash: rgba(234, 133, 52, 0.14);
 }
 
-.live-resource-card::after {
-  position: absolute;
-  z-index: -1;
-  top: -2.8rem;
-  right: -2.8rem;
-  width: 6.5rem;
-  height: 6.5rem;
-  border: 0.65rem solid var(--card-accent);
-  border-radius: 50%;
-  content: "";
-  opacity: 0.09;
-  pointer-events: none;
-}
-
 .live-resource-card .resource-card__type {
   display: flex;
   flex-wrap: wrap;
