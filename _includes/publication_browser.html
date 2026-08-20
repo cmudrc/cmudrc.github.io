@@ -1,0 +1,85 @@
+{% assign publication_list = site.data.citations | sort: "Year" | reverse %}
+
+<ol class="publication-list" id="publication-list" data-publication-list>
+{% for citation in publication_list %}
+  {% assign publication_lower = citation.Publication | default: "" | strip | downcase %}
+  {% assign publication_type = "other" %}
+  {% assign is_journal = false %}
+
+  {% if publication_lower contains "http://" or publication_lower contains "https://" %}
+    {% assign publication_type = "trade" %}
+  {% elsif publication_lower contains "arxiv" or publication_lower contains "ssrn" or publication_lower contains "preprint" %}
+    {% assign publication_type = "preprint" %}
+  {% else %}
+    {% for journal in site.publications.journals %}
+      {% assign journal_lower = journal | downcase %}
+      {% if publication_lower == journal_lower %}
+        {% assign is_journal = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% if is_journal %}
+      {% assign publication_type = "journal" %}
+    {% elsif publication_lower contains "conference" or publication_lower contains "proceedings" or publication_lower contains "congress" or publication_lower contains "symposium" or publication_lower contains "workshop" or publication_lower contains "annual meeting" or publication_lower contains "neural information processing systems" %}
+      {% assign publication_type = "conference" %}
+    {% endif %}
+  {% endif %}
+
+  {% capture citation_authors %}{% for element in citation %}{% if forloop.first %}{{ element[1] }}{% endif %}{% endfor %}{% endcapture %}
+  {% assign citation_authors = citation_authors | strip %}
+  {% assign author_size = citation_authors | size | minus: 1 %}
+  {% assign publication_authors = citation_authors | slice: 0, author_size | split: ";" %}
+
+  {% assign last_names = "" %}
+  {% assign first_names = "" %}
+  {% for name in publication_authors %}
+    {% assign first_last = name | split: "," %}
+    {% assign first_names = first_names | append: first_last[1] %}
+    {% assign last_names = last_names | append: first_last[0] %}
+    {% unless forloop.last %}
+      {% assign last_names = last_names | append: ";" %}
+      {% assign first_names = first_names | append: ";" %}
+    {% endunless %}
+  {% endfor %}
+  {% assign first_names = first_names | split: ";" %}
+  {% assign last_names = last_names | split: ";" %}
+
+  {% assign formatted_author_list = "" %}
+  {% for first_name in first_names %}
+    {% assign first_initial = first_name | slice: 1 %}
+    {% assign formatted_author_list = formatted_author_list | append: last_names[forloop.index0] | append: ", " | append: first_initial | append: "." %}
+    {% unless forloop.last %}
+      {% assign formatted_author_list = formatted_author_list | append: ";" %}
+    {% endunless %}
+  {% endfor %}
+
+  {% if publication_type == "trade" %}
+    {% assign publication_url = citation.Publication %}
+  {% elsif citation.DOI and citation.DOI != "" %}
+    {% assign publication_url = citation.DOI %}
+  {% else %}
+    {% assign publication_url = citation.Title | cgi_escape | prepend: "https://scholar.google.com/scholar?q=" %}
+  {% endif %}
+
+  {% assign publication_label = citation.Publication %}
+  {% if publication_type == "trade" %}
+    {% if publication_lower contains "thearcticinstitute.org" %}
+      {% assign publication_label = "The Arctic Institute" %}
+    {% else %}
+      {% assign publication_label = "Trade publication" %}
+    {% endif %}
+  {% endif %}
+
+  {% capture publication_search_text %}{{ citation_authors }} {{ citation.Title }} {{ citation.Publication }} {{ citation.Year }} {{ citation.Publisher }}{% endcapture %}
+  <li
+    data-publication-entry
+    data-publication-type="{{ publication_type }}"
+    data-publication-year="{{ citation.Year | escape }}"
+    data-publication-title="{{ citation.Title | escape }}"
+    data-publication-search="{{ publication_search_text | strip_newlines | escape }}"
+    data-publication-index="{{ forloop.index0 }}">
+    {{ formatted_author_list | split: ";" | array_to_sentence_string: "&" }} ({{ citation.Year }}). <a href="{{ publication_url | escape }}">{{ citation.Title }}</a>.{% if publication_label and publication_label != "" %} <em>{{ publication_label }}</em>.{% endif %}
+  </li>
+{% endfor %}
+</ol>

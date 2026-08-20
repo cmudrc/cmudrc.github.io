@@ -2,13 +2,14 @@
 title: Team
 permalink: /team/
 layout: splash
+classes: wide solid-hero
 header:
   og_image: "/assets/social-card.png"
   og_image_alt: "Carnegie Mellon University Design Research Collective"
-  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(77, 134, 135, 0.5))
-  overlay_image: "https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80"
-  caption: "[**Hans-Peter Gauster**](https://unsplash.com/@sloppyperfectionist) on [*Unsplash*](https://unsplash.com)"
+  overlay_color: "#1e3f3e"
 ---
 
-{% include lab_member_gallery.html%}
-{% include lab_alum_gallery.html%}
+{% include lab_member_gallery.html %}
+{% include lab_alum_gallery.html %}
+
+<script defer src="{{ '/assets/javascript/alumni-search.js' | relative_url }}"></script>

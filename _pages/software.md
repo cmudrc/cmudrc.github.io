@@ -1,28 +1,57 @@
 ---
 layout: splash
-classes: wide
+classes: wide solid-hero
 title: Tools & Data
 permalink: /tools-and-data/
 header:
   og_image: "/assets/social-card.png"
   og_image_alt: "Carnegie Mellon University Design Research Collective"
-  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(87, 183, 186, 0.5))
-  overlay_image: "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
-  caption: "[**Markus Spiske**](https://unsplash.com/@markusspiske) on [*Unsplash*](https://unsplash.com)"
-gallery:
-  - url: "https://github.com/THREDgroup/kaboom"
-    image_path: /assets/software/kaboom.png
-    title: "KABOOM"
-  - url: "https://github.com/hyform"
-    image_path: "https://raw.githubusercontent.com/hyform/branding/master/LOGO/PNG/Hyform-07.png"
-    title: "HyForm"
-  - url: "https://github.com/mccomblab/mccomblab.github.io"
-    image_path: /assets/software/mccomblab.png
-    title: "mccomblab.github.io"
-  - url: "https://github.com/mccomblab/show-me-the-funding"
-    image_path: "https://raw.githubusercontent.com/mccomblab/show-me-the-funding/master/assets/screenshot.png"
-    title: "Show Me The Funding"
+  overlay_color: "#1e3f3e"
+  excerpt: "Open tools, benchmarks, datasets, and research infrastructure for human-centered AI and computational engineering design."
 ---
 
+We release research artifacts when they can make results easier to inspect, reproduce, or build upon. Search the live inventory below to find public software, datasets, models, and interactive demos.
 
-{% include gallery %}
+<section class="resource-section live-catalog" aria-labelledby="live-catalog-heading" data-live-tool-catalog>
+  <h2 id="live-catalog-heading">Live public catalog</h2>
+  <p>This index updates automatically from the lab's public <a href="https://github.com/cmudrc">GitHub organization</a> and <a href="https://huggingface.co/cmudrc">Hugging Face collections</a>, including datasets, models, and interactive Spaces. It omits templates, site administration, and manuscript-only bundles.</p>
+
+  <div class="catalog-toolbar" role="search" aria-label="Filter the public tools and data catalog">
+    <div class="catalog-control catalog-control--search">
+      <label for="tool-catalog-search">Search tools and data</label>
+      <input id="tool-catalog-search" type="search" autocomplete="off" placeholder="Name, description, language, or topic" aria-controls="tool-catalog">
+    </div>
+    <div class="catalog-control">
+      <label for="tool-catalog-source">Source</label>
+      <select id="tool-catalog-source" aria-controls="tool-catalog">
+        <option value="all">All sources</option>
+        <option value="github">GitHub</option>
+        <option value="hugging-face">Hugging Face</option>
+      </select>
+    </div>
+    <div class="catalog-control">
+      <label for="tool-catalog-type">Resource type</label>
+      <select id="tool-catalog-type" aria-controls="tool-catalog">
+        <option value="all">All resource types</option>
+        <option value="software">Software repositories</option>
+        <option value="dataset">Datasets</option>
+        <option value="model">Models</option>
+        <option value="space">Interactive demos</option>
+      </select>
+    </div>
+    <div class="catalog-control">
+      <label for="tool-catalog-sort">Sort</label>
+      <select id="tool-catalog-sort" aria-controls="tool-catalog">
+        <option value="recent">Recently updated</option>
+        <option value="title">Name, A–Z</option>
+      </select>
+    </div>
+  </div>
+
+  <p class="catalog-status" id="tool-catalog-status" role="status" aria-live="polite" aria-atomic="true">Loading the live catalog…</p>
+  <div class="resource-grid" id="tool-catalog" aria-busy="true"></div>
+  <button class="btn btn--primary catalog-show-all" id="tool-catalog-show-all" type="button" hidden>Show all items</button>
+  <noscript><p>The live inventory requires JavaScript. Browse the complete catalog on <a href="https://github.com/cmudrc">GitHub</a> and <a href="https://huggingface.co/cmudrc">Hugging Face</a>.</p></noscript>
+</section>
+
+<script defer src="{{ '/assets/javascript/live-tool-catalog.js' | relative_url }}"></script>

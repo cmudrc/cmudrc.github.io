@@ -1,12 +1,11 @@
 ---
 layout: splash
-classes: wide
+classes: wide solid-hero
 permalink: /
 header:
   og_image: "/assets/social-card.png"
   og_image_alt: "Carnegie Mellon University Design Research Collective"
-  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.5), rgba(234, 133, 52, 0.5))
-  overlay_image: "https://images.unsplash.com/photo-1596213812143-ff89bd9ddecd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80"
+  overlay_color: "#1e3f3e"
   actions:
     - label: "<i class=\"fas fa-users\"></i>   Meet Our Team"
       url: "/team/"
@@ -14,7 +13,6 @@ header:
       url: "mailto:ccm@cmu.edu?subject=Interested in Joining the Design Research Collective"
     - label: "<i class=\"fas fa-book-reader\"></i>   Read Our Work"
       url: "/publications/"
-  caption: "[**Mika Baumeister**](https://unsplash.com/@mbaumi) on [*Unsplash*](https://unsplash.com)"
 research_intro:
   - title: Research Areas
   - excerpt: 'In the Design Research Collective, we explore research at the intersection of engineering design, psychology, and computer science to create superpowers for designers, engineers, and problem-solvers.'

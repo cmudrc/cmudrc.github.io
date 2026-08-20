@@ -1,9 +1,25 @@
-<h3>Alums</h3>
-<ol>
-{% for member in site.data.members %}
-{% if member.alum %}
-  {% assign z = "https://www.linkedin.com/search/results/all/?keywords="| append: {{member.first}} | append: " " | append: {{member.last}} | replace: " ", "%20" %}
-  <li><a href="{{z}}">{{member.first}} {{member.last}}</a>{% if member.degree %}, {{member.degree}}{% endif %}{% if member.year %} {{member.year}}{% endif %}{% if member.role %}, now {{ member.role }}{% endif %}</li>
-{% endif %}
-{% endfor %}
-</ol>
+{% assign alumni = site.data.members | where: "alum", true | sort: "year" | reverse %}
+
+<section class="alumni-section" aria-labelledby="alumni-heading">
+  <h2 id="alumni-heading">Alumni</h2>
+  <p>Our alumni carry design research into academia, industry, government, and public-interest organizations.</p>
+  <details class="alumni-directory">
+    <summary>Browse the alumni directory ({{ alumni.size }})</summary>
+    <div class="alumni-directory__body">
+      <label for="alumni-search">Search alumni by name, degree, year, or current role</label>
+      <input id="alumni-search" class="alumni-search" type="search" inputmode="search" autocomplete="off" placeholder="For example: PhD, 2024, Ansys">
+      <p id="alumni-search-status" class="alumni-search-status" aria-live="polite">Showing all {{ alumni.size }} alumni.</p>
+      <ol id="alumni-list" class="alumni-list">
+      {% for member in alumni %}
+        {% capture member_name %}{{ member.first }} {{ member.last }}{% endcapture %}
+        {% capture search_text %}{{ member_name }} {{ member.degree }} {{ member.year }} {{ member.role }}{% endcapture %}
+        {% assign linkedin_query = member_name | strip | url_encode %}
+        <li data-alumni-entry data-search="{{ search_text | strip | downcase | escape }}">
+          <a href="https://www.linkedin.com/search/results/all/?keywords={{ linkedin_query }}">{{ member_name | strip }}</a>{% if member.degree %}, {{ member.degree }}{% endif %}{% if member.year %} {{ member.year }}{% endif %}{% if member.role %}, now {{ member.role }}{% endif %}
+        </li>
+      {% endfor %}
+      </ol>
+      <p id="alumni-no-results" class="alumni-no-results" hidden>No alumni match that search.</p>
+    </div>
+  </details>
+</section>
