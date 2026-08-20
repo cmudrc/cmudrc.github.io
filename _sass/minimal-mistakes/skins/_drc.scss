@@ -120,9 +120,9 @@ $caption-font-family: $serif !default;
 // $youtube-color: #bb0000 !default;
 // $xing-color: #006567 !default;
 
-/* links */
-$link-color: $cmu-drc-blue !default;
-$link-color-hover: $cmu-drc-teal !default;
+/* links: darker brand tones preserve contrast on white backgrounds */
+$link-color: #2f6f71 !default;
+$link-color-hover: $cmu-drc-forest !default;
 $link-color-visited: $cmu-drc-forest !default;
 // $masthead-link-color: $primary-color !default;
 // $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
