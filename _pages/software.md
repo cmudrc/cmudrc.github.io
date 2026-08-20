@@ -10,30 +10,7 @@ header:
   excerpt: "Open tools, benchmarks, datasets, and research infrastructure for human-centered AI and computational engineering design."
 ---
 
-We release research artifacts when they can make results easier to inspect, reproduce, or build upon. Search the live inventory below to find public software, datasets, models, and interactive demos.
-
-<section class="resource-section" aria-labelledby="published-datasets-heading">
-  <h2 id="published-datasets-heading">Published datasets</h2>
-  <div class="resource-grid">
-    <article class="resource-card live-resource-card live-resource-card--dataset">
-      <p class="resource-card__type">
-        <span class="resource-card__badge resource-card__badge--source"><i class="fas fa-snowflake" aria-hidden="true"></i><span>Arctic Data Center</span></span>
-        <span class="resource-card__badge resource-card__badge--kind"><i class="fas fa-database" aria-hidden="true"></i><span>Dataset</span></span>
-      </p>
-      <h3>Community survey data on permafrost thaw, coastal erosion, and civil infrastructure damage in Arctic Alaska</h3>
-      <p>Survey responses from Point Lay, Wainwright, Utqiaġvik, and Kaktovik collected from October 29, 2021, through February 1, 2022.</p>
-      <p class="resource-card__meta">Liew, Xiao, Farquharson, Nicolsky, Jensen, Romanovsky, Peirce, Alessa, McComb, Zhang, and Jones (2023)</p>
-      <ul class="resource-card__links" aria-label="Links for the Arctic community survey dataset">
-        <li><a href="https://arcticdata.io/catalog/view/doi:10.18739/A24746S9G">View dataset</a></li>
-      </ul>
-    </article>
-  </div>
-</section>
-
-<section class="resource-section live-catalog" aria-labelledby="live-catalog-heading" data-live-tool-catalog>
-  <h2 id="live-catalog-heading">Live public catalog</h2>
-  <p>This index updates automatically from the lab's public <a href="https://github.com/cmudrc">GitHub organization</a> and <a href="https://huggingface.co/cmudrc">Hugging Face collections</a>, including datasets, models, and interactive Spaces. It omits templates, site administration, and manuscript-only bundles.</p>
-
+<section class="resource-section live-catalog" aria-label="Public tools and data catalog" data-live-tool-catalog>
   <div class="catalog-toolbar" role="search" aria-label="Filter the public tools and data catalog">
     <div class="catalog-control catalog-control--search">
       <label for="tool-catalog-search">Search tools and data</label>
@@ -45,6 +22,7 @@ We release research artifacts when they can make results easier to inspect, repr
         <option value="all">All sources</option>
         <option value="github">GitHub</option>
         <option value="hugging-face">Hugging Face</option>
+        <option value="arctic-data-center">Arctic Data Center</option>
       </select>
     </div>
     <div class="catalog-control">

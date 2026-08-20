@@ -20,6 +20,10 @@
     day: "numeric"
   });
   const collator = new Intl.Collator("en", { sensitivity: "base" });
+  const sourceListFormatter = new Intl.ListFormat("en", {
+    style: "long",
+    type: "conjunction"
+  });
   const initialLimit = 18;
   const administrativeRepositories = new Set([
     "branding",
@@ -27,8 +31,26 @@
     "prepare-asme-submission-package"
   ]);
   const manuscriptOnlyPattern = /(paper|supplement|submission)/i;
-  let items = [];
-  const loadedSources = new Set();
+  const curatedItems = [{
+    name: "Community survey data on permafrost thaw, coastal erosion, and civil infrastructure damage in Arctic Alaska",
+    source: "arctic-data-center",
+    category: "dataset",
+    sourceLabel: "Arctic Data Center",
+    kind: "Dataset",
+    description: "Survey responses from Point Lay, Wainwright, Utqiaġvik, and Kaktovik collected from October 29, 2021, through February 1, 2022.",
+    metadata: "Liew, Xiao, Farquharson, Nicolsky, Jensen, Romanovsky, Peirce, Alessa, McComb, Zhang, and Jones (2023)",
+    url: "https://arcticdata.io/catalog/view/doi:10.18739/A24746S9G",
+    updated: null,
+    featured: true,
+    search: normalize([
+      "Community survey data on permafrost thaw, coastal erosion, and civil infrastructure damage in Arctic Alaska",
+      "Survey responses from Point Lay, Wainwright, Utqiaġvik, and Kaktovik",
+      "Liew Xiao Farquharson Nicolsky Jensen Romanovsky Peirce Alessa McComb Zhang Jones",
+      "Arctic Data Center dataset"
+    ].join(" "))
+  }];
+  let items = curatedItems.slice();
+  const loadedSources = new Set(["Arctic Data Center"]);
   let showAll = false;
 
   if (!catalog || !queryInput || !sourceSelect || !typeSelect || !sortSelect || !status || !showAllButton) {
@@ -71,11 +93,9 @@
   }
 
   function sourceListLabel() {
-    if (loadedSources.size === 2) {
-      return "GitHub and Hugging Face";
-    }
-
-    return Array.from(loadedSources)[0] || "the public source APIs";
+    return loadedSources.size > 0
+      ? sourceListFormatter.format(Array.from(loadedSources))
+      : "the public source APIs";
   }
 
   function formatDate(value) {
@@ -256,6 +276,10 @@
       return collator.compare(a.name, b.name) || collator.compare(a.sourceLabel, b.sourceLabel);
     }
 
+    if (Boolean(a.featured) !== Boolean(b.featured)) {
+      return a.featured ? -1 : 1;
+    }
+
     const aTimestamp = a.updated ? a.updated.timestamp : 0;
     const bTimestamp = b.updated ? b.updated.timestamp : 0;
     return bTimestamp - aTimestamp || collator.compare(a.name, b.name);
@@ -286,11 +310,16 @@
       sourceIcon.className = "fab fa-github";
       sourceIcon.setAttribute("aria-hidden", "true");
       sourceBadge.append(sourceIcon);
-    } else {
+    } else if (item.source === "hugging-face") {
       const sourceIcon = document.createElement("span");
       sourceIcon.className = "resource-card__emoji";
       sourceIcon.setAttribute("aria-hidden", "true");
       sourceIcon.textContent = "🤗";
+      sourceBadge.append(sourceIcon);
+    } else {
+      const sourceIcon = document.createElement("i");
+      sourceIcon.className = "fas fa-snowflake";
+      sourceIcon.setAttribute("aria-hidden", "true");
       sourceBadge.append(sourceIcon);
     }
 
@@ -310,7 +339,9 @@
     description.textContent = item.description;
     metadata.className = "resource-card__meta";
 
-    if (item.updated) {
+    if (item.metadata) {
+      metadata.textContent = item.metadata;
+    } else if (item.updated) {
       const time = document.createElement("time");
       time.dateTime = item.updated.iso;
       time.textContent = "Updated " + item.updated.label;
@@ -369,7 +400,7 @@
     showAllButton.textContent = "Show all " + matchingItems.length + " items";
 
     if (matchingItems.length === items.length && visibleItems.length < matchingItems.length) {
-      status.textContent = "Showing the newest " + visibleItems.length + " of " + matchingItems.length + " live items from " + sourceListLabel() + ".";
+      status.textContent = "Showing " + visibleItems.length + " of " + matchingItems.length + " catalog items from " + sourceListLabel() + ".";
     } else {
       status.textContent = "Showing " + visibleItems.length + " of " + matchingItems.length + " matching items (" + items.length + " total) from " + sourceListLabel() + ".";
     }

@@ -9,8 +9,6 @@ header:
   overlay_color: "#1e3f3e"
   excerpt: "Search the lab's journal articles, conference papers, preprints, and public-facing research writing."
 ---
-<p>This index is generated from the lab's publication data. New records become searchable and sortable without additional page maintenance.</p>
-
 <div class="publication-browser" data-publication-browser>
   <div class="catalog-toolbar publication-toolbar" role="search" aria-label="Search and filter publications" data-publication-controls>
     <div class="catalog-control catalog-control--search">
