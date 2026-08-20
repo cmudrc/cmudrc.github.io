@@ -21,7 +21,7 @@
 
     {% if is_journal %}
       {% assign publication_type = "journal" %}
-    {% elsif publication_lower contains "conference" or publication_lower contains "proceedings" or publication_lower contains "congress" or publication_lower contains "symposium" or publication_lower contains "workshop" or publication_lower contains "annual meeting" or publication_lower contains "neural information processing systems" %}
+    {% elsif publication_lower contains "conference" or publication_lower contains "proceedings" or publication_lower contains "congress" or publication_lower contains "symposium" or publication_lower contains "workshop" or publication_lower contains "annual meeting" or publication_lower contains "neural information processing systems" or publication_lower contains "design computing and cognition" %}
       {% assign publication_type = "conference" %}
     {% endif %}
   {% endif %}
