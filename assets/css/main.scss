@@ -75,6 +75,29 @@ search: false
   color: #fff;
 }
 
+.solid-hero .page__hero--overlay .btn--light-outline {
+  border-color: #fff;
+  background-color: #fff !important;
+  color: #1e3f3e !important;
+  text-shadow: none !important;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.solid-hero .page__hero--overlay .btn--light-outline i,
+.solid-hero .page__hero--overlay .btn--light-outline i::before {
+  color: #1e3f3e !important;
+  text-shadow: none !important;
+}
+
+.solid-hero .page__hero--overlay .btn--light-outline:hover,
+.solid-hero .page__hero--overlay .btn--light-outline:focus-visible {
+  border-color: #57b7ba;
+  background-color: #fff;
+  color: #1e3f3e;
+  box-shadow: 0 0.35rem 0.85rem rgba(0, 0, 0, 0.22);
+  transform: translateY(-0.1rem);
+}
+
 .archive__item-caption {
   padding: 0.2rem 0.4rem;
   background: #1e3f3e;
@@ -180,6 +203,8 @@ search: false
   overflow: hidden;
   border-top-color: var(--card-accent);
   background-color: var(--card-surface);
+  content-visibility: auto;
+  contain-intrinsic-block-size: auto 22rem;
   transition: box-shadow 180ms ease, transform 180ms ease;
 }
 
@@ -232,6 +257,13 @@ search: false
 
 .resource-card__emoji {
   font-size: 1.05em;
+  line-height: 1;
+}
+
+.footer-hugging-face-icon::before {
+  content: "🤗";
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  font-style: normal;
   line-height: 1;
 }
 
@@ -293,10 +325,6 @@ search: false
 .catalog-status {
   color: #4d5d5d;
   font-size: 0.88em;
-}
-
-.catalog-show-all {
-  margin-top: 1.25rem;
 }
 
 .catalog-empty {

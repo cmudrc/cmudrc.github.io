@@ -124,9 +124,6 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ask-drc@andrew.cmu.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/cmudrc
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -134,7 +131,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: https://github.com/cmudrc/
     - label: "Hugging Face"
-      icon: "fas fa-fw fa-database"
+      icon: "footer-hugging-face-icon fa-fw"
       url: https://huggingface.co/cmudrc
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

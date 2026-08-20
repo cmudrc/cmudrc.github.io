@@ -46,7 +46,6 @@ header:
 
   <p class="catalog-status" id="tool-catalog-status" role="status" aria-live="polite" aria-atomic="true">Loading the live catalog…</p>
   <div class="resource-grid" id="tool-catalog" aria-busy="true"></div>
-  <button class="btn btn--primary catalog-show-all" id="tool-catalog-show-all" type="button" hidden>Show all items</button>
   <noscript><p>The live inventory requires JavaScript. Browse the complete catalog on <a href="https://github.com/cmudrc">GitHub</a> and <a href="https://huggingface.co/cmudrc">Hugging Face</a>.</p></noscript>
 </section>
 

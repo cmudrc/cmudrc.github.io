@@ -13,7 +13,6 @@
   const typeSelect = section.querySelector("#tool-catalog-type");
   const sortSelect = section.querySelector("#tool-catalog-sort");
   const status = section.querySelector("#tool-catalog-status");
-  const showAllButton = section.querySelector("#tool-catalog-show-all");
   const dateFormatter = new Intl.DateTimeFormat("en-US", {
     year: "numeric",
     month: "short",
@@ -24,7 +23,6 @@
     style: "long",
     type: "conjunction"
   });
-  const initialLimit = 18;
   const administrativeRepositories = new Set([
     "branding",
     "cmudrc.github.io",
@@ -51,9 +49,8 @@
   }];
   let items = curatedItems.slice();
   const loadedSources = new Set(["Arctic Data Center"]);
-  let showAll = false;
 
-  if (!catalog || !queryInput || !sourceSelect || !typeSelect || !sortSelect || !status || !showAllButton) {
+  if (!catalog || !queryInput || !sourceSelect || !typeSelect || !sortSelect || !status) {
     return;
   }
 
@@ -380,7 +377,6 @@
       const matchesType = selectedType === "all" || item.category === selectedType;
       return matchesQuery && matchesSource && matchesType;
     }).sort(compareItems);
-    const visibleItems = showAll ? matchingItems : matchingItems.slice(0, initialLimit);
     const fragment = document.createDocumentFragment();
 
     if (matchingItems.length === 0) {
@@ -389,40 +385,25 @@
       empty.textContent = "No public resources match these filters.";
       fragment.append(empty);
     } else {
-      visibleItems.forEach(function (item) {
+      matchingItems.forEach(function (item) {
         fragment.append(createCard(item));
       });
     }
 
     catalog.replaceChildren(fragment);
     catalog.setAttribute("aria-busy", "false");
-    showAllButton.hidden = showAll || matchingItems.length <= initialLimit;
-    showAllButton.textContent = "Show all " + matchingItems.length + " items";
 
-    if (matchingItems.length === items.length && visibleItems.length < matchingItems.length) {
-      status.textContent = "Showing " + visibleItems.length + " of " + matchingItems.length + " catalog items from " + sourceListLabel() + ".";
+    if (matchingItems.length === items.length) {
+      status.textContent = "Showing all " + matchingItems.length + " catalog items from " + sourceListLabel() + ".";
     } else {
-      status.textContent = "Showing " + visibleItems.length + " of " + matchingItems.length + " matching items (" + items.length + " total) from " + sourceListLabel() + ".";
+      status.textContent = "Showing all " + matchingItems.length + " matching items (" + items.length + " total) from " + sourceListLabel() + ".";
     }
   }
 
-  queryInput.addEventListener("input", function () {
-    showAll = false;
-    renderCatalog();
-  });
-  sourceSelect.addEventListener("change", function () {
-    showAll = false;
-    renderCatalog();
-  });
-  typeSelect.addEventListener("change", function () {
-    showAll = false;
-    renderCatalog();
-  });
+  queryInput.addEventListener("input", renderCatalog);
+  sourceSelect.addEventListener("change", renderCatalog);
+  typeSelect.addEventListener("change", renderCatalog);
   sortSelect.addEventListener("change", renderCatalog);
-  showAllButton.addEventListener("click", function () {
-    showAll = true;
-    renderCatalog();
-  });
 
   const githubRequest = fetchJson("https://api.github.com/orgs/cmudrc/repos?per_page=100&type=public&sort=pushed&direction=desc");
   const huggingFaceDatasetRequest = fetchJson("https://huggingface.co/api/datasets?author=cmudrc&limit=100&full=true");
