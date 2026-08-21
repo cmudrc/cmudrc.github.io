@@ -12,11 +12,13 @@ header:
 
 The Design Research Collective is multidisciplinary by design. Our members come from mechanical and aerospace engineering, computer science and data science, architecture and design, public policy, and the social sciences. What connects us is a shared interest in how people, AI systems, and engineered systems shape one another.
 
+Before reaching out, review our [research themes](/) and [recent publications](/publications/), identify the goals, themes, or recent work that connect to your interests, explain what research questions you hope to pursue within that shared direction, and describe the technical or research experience that prepares you to contribute. Please attach a CV or résumé.
+
 <div class="join-grid">
   <section class="join-card">
     <h3>Doctoral research</h3>
-    <p>The lab runs a separate admissions process for prospective Ph.D. researchers. We also encourage interested applicants to apply directly to the Carnegie Mellon graduate program that best fits their preparation and research goals.</p>
-    <p><a href="mailto:ccm@cmu.edu?subject=Prospective Ph.D. researcher interested in the DRC">Ask about lab admissions</a><br><a href="https://meche.engineering.cmu.edu/education/graduate-programs/admission/index.html">Apply through Mechanical Engineering</a></p>
+    <p>Prospective Ph.D. students are encouraged to contact us before applying. Admissions and group fit are ultimately handled through Carnegie Mellon’s formal graduate application process.</p>
+    <p><a href="mailto:ccm@cmu.edu?subject=Prospective Ph.D. applicant interested in the DRC">Email us</a> and <a href="https://meche.engineering.cmu.edu/education/graduate-programs/admission/index.html">Apply</a></p>
   </section>
   <section class="join-card">
     <h3>Current CMU students</h3>
@@ -24,7 +26,7 @@ The Design Research Collective is multidisciplinary by design. Our members come 
     <p><a href="mailto:ccm@cmu.edu?subject=Current CMU student interested in DRC research">Introduce your interests</a></p>
   </section>
   <section class="join-card">
-    <h3>Research and industry collaboration</h3>
+    <h3>External Collaborations</h3>
     <p>We work with academic, government, and industry partners on questions that connect human–AI collaboration with consequential engineering practice.</p>
     <p><a href="mailto:ccm@cmu.edu?subject=Potential DRC collaboration">Start a conversation</a></p>
   </section>
