@@ -71,6 +71,18 @@
     - Energy systems
     - Agentic engineering
 
+- first: Chenrui
+  last: Xu
+  role: Ph.D. Student
+  alum: false
+  # Profile: https://www.linkedin.com/in/chenrui-xu-1136b535a
+  linkedin: "https://www.linkedin.com/in/chenrui-xu-1136b535a"
+  email: "chenrui2@andrew.cmu.edu"
+  keywords:
+    - Agentic AI
+    - Building decarbonization
+    - Decision support
+
 - first: George
   last: Tang
   role: Ph.D. Student
