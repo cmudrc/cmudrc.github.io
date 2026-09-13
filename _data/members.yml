@@ -76,6 +76,8 @@
   role: Ph.D. Student
   alum: false
   # Profile: https://www.linkedin.com/in/chenrui-xu-1136b535a
+  # Headshot source: Chenrui Xu's LinkedIn profile photo
+  headshot: "/assets/headshots/chenrui-xu.png"
   linkedin: "https://www.linkedin.com/in/chenrui-xu-1136b535a"
   email: "chenrui2@andrew.cmu.edu"
   keywords:
