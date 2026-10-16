@@ -55,6 +55,5 @@ application_areas:
 
 <section class="recent-publications" aria-labelledby="recent-publications-heading">
   <h2 id="recent-publications-heading">Recent publications</h2>
-  <p>A selection of our latest work. <a href="{{ '/publications/' | relative_url }}">Search all publications</a>.</p>
   {% include publications limit=5 link=true %}
 </section>
