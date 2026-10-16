@@ -17,6 +17,6 @@ The Gemfile pins Jekyll 3.10 for compatibility with CSV data on Ruby 3.1. The si
 
 ## Publications
 
-The full [publications page](https://cmudrc.github.io/publications/) uses the site's searchable publication browser. The homepage's recent-publications list uses the [`Google Scholar for GitHub Pages` include](https://github.com/cmccomb/google-scholar-for-github-pages) with the same `_data/citations.csv` file.
+The full [publications page](https://cmudrc.github.io/publications/) uses the site's searchable publication browser. The homepage's compact recent-publications list uses the [`Google Scholar for GitHub Pages` include](https://github.com/cmccomb/google-scholar-for-github-pages) with the same `_data/citations.csv` file.
 
-`_includes/publications` is pinned to upstream commit [`3b9a1aa51dce1093422477309f97976098c93f23`](https://github.com/cmccomb/google-scholar-for-github-pages/commit/3b9a1aa51dce1093422477309f97976098c93f23). When updating it, copy the include from the new commit and update the pinned SHA in `.github/workflows/jekyll.yml`. The Pages workflow verifies the copy against that commit before building the site.
+`_includes/publications` is pinned to upstream commit [`2d2c30446bf42bcb93e8a4db83a0f2ec5b4701dd`](https://github.com/cmccomb/google-scholar-for-github-pages/commit/2d2c30446bf42bcb93e8a4db83a0f2ec5b4701dd). When updating it, copy the include from the new commit and update the pinned SHA in `.github/workflows/jekyll.yml`. The Pages workflow verifies the copy against that commit before building the site.
