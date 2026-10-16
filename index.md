@@ -55,5 +55,5 @@ application_areas:
 
 <section class="recent-publications" aria-labelledby="recent-publications-heading">
   <h2 id="recent-publications-heading">Recent publications</h2>
-  {% include publications limit=5 link=true %}
+  {% include publications compact=true limit=5 link=true %}
 </section>
