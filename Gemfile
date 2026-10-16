@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 3.10.0"
+gem "kramdown-parser-gfm"
 gem "jekyll-remote-theme", group: :jekyll_plugins
 gem "jekyll-paginate", group: :jekyll_plugins
 gem "jekyll-sitemap", group: :jekyll_plugins
