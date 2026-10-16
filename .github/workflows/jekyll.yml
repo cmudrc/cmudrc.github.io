@@ -37,6 +37,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Verify pinned Scholar include
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/cmccomb/google-scholar-for-github-pages/3b9a1aa51dce1093422477309f97976098c93f23/_includes/publications" | cmp - _includes/publications
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1 #8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:

@@ -12,3 +12,9 @@ bundle exec jekyll serve
 ```
 
 Open `http://localhost:4000` to preview the site.
+
+## Publications
+
+The full [publications page](https://cmudrc.github.io/publications/) uses the site's searchable publication browser. The homepage's recent-publications list uses the [`Google Scholar for GitHub Pages` include](https://github.com/cmccomb/google-scholar-for-github-pages) with the same `_data/citations.csv` file.
+
+`_includes/publications` is pinned to upstream commit [`3b9a1aa51dce1093422477309f97976098c93f23`](https://github.com/cmccomb/google-scholar-for-github-pages/commit/3b9a1aa51dce1093422477309f97976098c93f23). When updating it, copy the include from the new commit and update the pinned SHA in `.github/workflows/jekyll.yml`. The Pages workflow verifies the copy against that commit before building the site.

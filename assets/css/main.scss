@@ -335,6 +335,20 @@ search: false
 }
 
 // Publications browser
+.recent-publications {
+  max-width: 70rem;
+  margin: 3rem auto 1rem;
+}
+
+.recent-publications li {
+  margin-bottom: 0.85rem;
+  padding-left: 0.25rem;
+}
+
+.recent-publications__credit {
+  font-size: 0.85em;
+}
+
 .publication-browser {
   margin-top: 1.5rem;
 }
