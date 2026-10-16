@@ -11,6 +11,9 @@ on:
   push:
     branches: ["main"]
 
+  # Validate site changes before merging without deploying them.
+  pull_request:
+
   # Rebuilds annually so generated dates, including the footer year, stay current.
   schedule:
     - cron: "17 6 1 1 *"
@@ -60,6 +63,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
