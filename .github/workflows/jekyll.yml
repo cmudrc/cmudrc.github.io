@@ -11,6 +11,9 @@ on:
   push:
     branches: ["main"]
 
+  # Validate site changes before merging without deploying them.
+  pull_request:
+
   # Rebuilds annually so generated dates, including the footer year, stay current.
   schedule:
     - cron: "17 6 1 1 *"
@@ -37,6 +40,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Verify pinned Scholar include
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/cmccomb/google-scholar-for-github-pages/3b9a1aa51dce1093422477309f97976098c93f23/_includes/publications" | cmp - _includes/publications
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1 #8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
@@ -57,6 +63,7 @@ jobs:
 
   # Deployment job
   deploy:
+    if: github.event_name != 'pull_request'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

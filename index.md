@@ -52,3 +52,10 @@ application_areas:
 {% include feature_row id="research_areas" %}
 {% include feature_row id="application_intro" type="center" %}
 {% include feature_row id="application_areas" %}
+
+<section class="recent-publications" aria-labelledby="recent-publications-heading">
+  <h2 id="recent-publications-heading">Recent publications</h2>
+  <p>A selection of our latest work. <a href="{{ '/publications/' | relative_url }}">Search all publications</a>.</p>
+  {% include publications limit=5 link=true %}
+  <p class="recent-publications__credit">This list uses <a href="https://github.com/cmccomb/google-scholar-for-github-pages">Google Scholar for GitHub Pages</a>.</p>
+</section>
